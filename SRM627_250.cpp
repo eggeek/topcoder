@@ -62,3 +62,4 @@ string HappyLetterDiv1::getHappyLetters(string l) {
 	for (int i=0; i<26; i++ ) if (cnt[i] && check(i+'a')) ans += i+'a';
 	return ans;
 }
+ 
