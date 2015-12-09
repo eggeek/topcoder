@@ -4,7 +4,7 @@ from os import remove
 from os.path import isfile, join
 from shutil import rmtree
 protected = ['.git']
-track_types = ['cpp', 'java', 'py']
+track_types = ['cpp', 'py']
 cur = '.'
 trash = []
 dirs = []
