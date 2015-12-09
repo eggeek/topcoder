@@ -15,7 +15,17 @@ using namespace std;
 class VampireTree {
     public:
     int maxDistance(vector<int> num) {
-        return 0;
+        int sum = 0;
+        int n = (int)num.size();
+        int leaf = 0;
+
+        for (auto x: num) {
+            sum += x;
+            if (x == 1) leaf ++;
+        }
+        if (sum != 2 * (n-1)) return -1;
+        int ans = n-leaf+1;
+        return ans;
     }
 };
 
