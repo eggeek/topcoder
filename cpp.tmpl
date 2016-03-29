@@ -33,6 +33,11 @@ using namespace std;
 #define LOWB(x) (x & (-x))
 #define UNIQUE(a) sort(ALL(a)), (a).erase(unique(ALL(a)), (a).end())
 #define HEIGHT(n) (sizeof(int) * 8 - __builtin_clz(n)) //height of range n segment tree
+#ifndef ONLINE_JUDGE
+#define dbg(x) cerr << #x << " = " << x << endl;
+#else
+#define dbg(x)
+#endif
 typedef long long llong;
 typedef pair<int, int> pii;
 typedef vector<int> vi;
