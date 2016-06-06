@@ -52,30 +52,23 @@ int dx[] = {-1, 1, 0, 0};
 int dy[] = {0, 0, -1, 1};
 /*----------------------------------------*/
 
-bool check(int v, vector<int> s) {
-    bool flag = false;
-    for (auto i: s) {
-        if (v == i) {
-            flag = true;
-            break;
-        }
-    }
-    return flag;
-}
-
 class SumFullSet {
     public:
-    string isSumFullSet(vector<int> nums) {
+
+    bool solve(const vector<int>& nums) {
+        set<int> s = set<int>(nums.begin(), nums.end());
         int n = SZ(nums);
-        bool flag = true;
-        for (int i=0; i<n && flag; i++) {
-            for (int j=i+1; j<n && flag; j++) {
-                if (!check(nums[i] + nums[j], nums)) {
-                    flag = false;
-                    break;
-                }
+        for (int i=0; i<n; i++) {
+            for (int j=i+1; j<n; j++) {
+                int v = nums[i] + nums[j];
+                if (s.find(v) == s.end()) return false;
             }
         }
+        return true;
+    }
+
+    string isSumFullSet(vector<int> nums) {
+        bool flag = solve(nums);
         return flag?"closed": "not closed";
     }
 };

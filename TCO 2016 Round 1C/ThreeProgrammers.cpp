@@ -51,129 +51,88 @@ const double pi = acos(-1.0);
 int dx[] = {-1, 1, 0, 0};
 int dy[] = {0, 0, -1, 1};
 /*----------------------------------------*/
-string str[28][51][51][51];
-int cnt[3];
-
-string to_str(int msk) {
-    string x = "";
-    x = 'A' + msk / 9; msk %= 9;
-    x += 'A' + msk / 3; msk %= 3;
-    x += 'A' + msk;
-    return x;
-}
-
-bool possible(int msk) {
-    string x = to_str(msk);
-    //printf("is possible msk:%d str:%s ", msk, x.c_str());
-    bool res = true;
-    for (int i=0; i<3; i++) {
-        if (x[i] == 'A') continue;
-        if (x[i] == 'B') {
-            if (i+1<3 && x[i+1] == 'B') {
-                res = false;
-                break;
-            }
-        }
-        if (x[i] == 'C') {
-            if (i+1<3 && x[i+1] == 'C') {
-                res = false;
-                break;
-            }
-            if (i+2<3 && x[i+2] == 'C') {
-                res = false;
-                break;
-            }
-        }
-    }
-    //printf("res: %s\n", res? "true": "false");
-    return res;
-}
-
-int dfs(int msk, int a, int b, int c) {
-    if (a == 0 && b == 0 && c == 0) {
-        str[msk][a][b][c] = "";
-        //printf("get ans msk:%s a:%d b:%d c:%d ans:%s\n", to_str(msk).c_str(), a, b, c, str[msk][a][b][c].c_str());
-        return 1;
-    }
-    if (str[msk][a][b][c] != "0") return 0;
-
-    // put a
-    if (a) {
-        int new_msk = (msk % 9) * 3;
-        if (possible(new_msk)) {
-            if (dfs(new_msk, a-1, b, c)) {
-                str[msk][a][b][c] = 'A' + str[new_msk][a-1][b][c];
-                //printf("get ans msk:%s a:%d b:%d c:%d ans:%s\n", to_str(msk).c_str(), a, b, c, str[msk][a][b][c].c_str());
-                return 1;
-            }
-        }
-    }
-
-    if (b) {
-        int new_msk = (msk % 9) * 3 + 1;
-        if (possible(new_msk)) {
-            if (dfs(new_msk, a, b-1, c)) {
-                str[msk][a][b][c] = 'B' + str[new_msk][a][b-1][c];
-                //printf("get ans msk:%s a:%d b:%d c:%d ans:%s\n", to_str(msk).c_str(), a, b, c, str[msk][a][b][c].c_str());
-                return 1;
-            }
-        }
-    }
-
-    if (c) {
-        int new_msk = (msk % 9) * 3 + 2;
-        if (possible(new_msk)) {
-            if (dfs(new_msk, a, b, c-1)) {
-                str[msk][a][b][c] = 'C' + str[new_msk][a][b][c-1];
-                //printf("get ans msk:%s a:%d b:%d c:%d ans:%s\n", to_str(msk).c_str(), a, b, c, str[msk][a][b][c].c_str());
-                return 1;
-            }
-        }
-    }
-    str[msk][a][b][c] = "impossible";
-    return 0;
-}
 
 class ThreeProgrammers {
     public:
-    string validCodeHistory(string code) {
-        if (SZ(code) < 3) {
-            if (code == "BB") return "impossible";
-            if (code == "CC") return "impossible";
-            return code;
-        }
-        for (int i=0; i<28; i++) {
-            for (int j=0; j<=50; j++)
-                for (int k=0; k<=50; k++)
-                    for (int r=0; r<=50; r++)
-                        str[i][j][k][r] = "0";
-        }
-        memset(cnt, 0, sizeof(cnt));
-        for (auto i: code) {
-            cnt[i - 'A'] ++;
-        }
-        bool flag = false;
-        for (int i=0; i<3; i++) if (cnt[i] - 1 >= 0){
-            cnt[i]--;
-            for (int j=0; j<3; j++) if (cnt[j] - 1 >= 0){
-                cnt[j]--;
-                for (int k=0; k<3; k++) if (cnt[k] - 1 >= 0){
-                    cnt[k]--;
-                    int msk = i*9 + j * 3 + k;
-                    if (possible(msk)) {
-                        flag = dfs(msk, cnt[0], cnt[1], cnt[2]);
-                        if (flag) {
-                            string res = to_str(msk) + str[msk][cnt[0]][cnt[1]][cnt[2]];
-                            return res;
-                        }
-                    }
-                    cnt[k]++;
-                }
-                cnt[j]++;
+    int cnt[3];
+
+    void add(string& s, int id) {
+        s += (char)('A' + id);
+        cnt[id] --;
+    }
+
+    int find_illegal(string s) {
+        int last = -1;
+        for (int i=0; i<s.length(); i++) {
+            if (s[i] == 'B') {
+                if (last == -1) last = i;
+                else if (i - last <= 1) return i;
+                else last = i;
             }
-            cnt[i]++;
         }
-        return "impossible";
+        return -1;
+    }
+
+    int find_A(string s, int l) {
+        int p = -1;
+        for (int i=l; i<s.length(); i++) if (s[i] == 'A') return i;
+        return p;
+    }
+
+    string solve() {
+        string res = "";
+        string imp = "impossible";
+        for (int i=0; i<cnt[2]-1; i++) {
+            res += "C";
+            if (cnt[0] && cnt[1]) {
+                add(res, 1);
+                add(res, 0);
+            } else if (cnt[0] >= 2) {
+                add(res, 0);
+                add(res, 0);
+            } else return imp;
+        }
+        if (cnt[2]) add(res, 2);
+
+        //printf("cur res: %s\n", res.c_str());
+
+        if (cnt[1]) {
+            res = "B" + res;
+            cnt[1]--;
+        }
+
+        int p = 0;
+        while (cnt[1]) {
+            p = find_A(res, p);
+            if (p == -1) break;
+            res.insert(++p, "B");
+            cnt[1]--;
+        }
+
+        while (cnt[1]) add(res, 1);
+
+        //printf("filled B, res: %s\n", res.c_str());
+
+        while (true) {
+            int p = find_illegal(res);
+            //printf("res: %s p:%d\n", res.c_str(), p);
+            if (p == -1) break;
+            if (cnt[0]) {
+                res.insert(p, "A");
+                cnt[0]--;
+            //    printf("insert A, p:%d res: %s\n", p, res.c_str());
+            }
+            else return imp;
+        }
+        while (cnt[0]) add(res, 0);
+        return res;
+    }
+
+    string validCodeHistory(string code) {
+        memset(cnt, 0, sizeof(cnt));
+        for (char c: code) cnt[c-'A']++;
+        string ans = solve();
+        return ans;
     }
 };
 
@@ -247,7 +206,7 @@ int run_test(bool mainProcess, const set<int> &case_set, const string command) {
     }
     if (mainProcess) {
         cout << endl << "Passed : " << passed << "/" << cases << " cases" << endl;
-        int T = time(NULL) - 1461755775;
+        int T = time(NULL) - 1465169796;
         double PT = T / 60.0, TT = 75.0;
         cout << "Time   : " << T / 60 << " minutes " << T % 60 << " secs" << endl;
         cout << "Score  : " << 500 * (0.3 + (0.7 * TT * TT) / (10.0 * PT * PT + TT * TT)) << " points" << endl;
