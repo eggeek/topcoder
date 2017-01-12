@@ -1,0 +1,2087 @@
+problem                                 |round                              |level   |solved
+--------------------------------------------------------------------------------------------
+TreeDistanceConstruction                |SRM 704                            |1       |True 
+ModEquation                             |SRM 704                            |2       |False
+HamiltonianConstruction                 |SRM 704                            |3       |False
+DAGConstruction                         |SRM 703                            |1       |False
+CoastGuard                              |SRM 703                            |2       |False
+AutomorphicGraph                        |SRM 703                            |3       |False
+MealPlan                                |2016 TCO Final                     |1       |False
+SwappingParentheses                     |2016 TCO Final                     |2       |False
+HamiltonianPaths                        |2016 TCO Final                     |3       |False
+SpecialClique                           |2016 TCO Semi 2                    |1       |False
+TreeSorter                              |2016 TCO Semi 2                    |2       |False
+XorRank                                 |2016 TCO Semi 2                    |3       |False
+NonCoprimeGraph                         |2016 TCO Semi 1                    |1       |False
+MinimumCutsAgain                        |2016 TCO Semi 1                    |2       |False
+ColorfulPath                            |2016 TCO Semi 1                    |3       |False
+GridSortMax                             |SRM 702                            |1       |False
+RepeatedStrings                         |SRM 702                            |2       |False
+FindingFriends                          |SRM 702                            |3       |False
+PartisanGame                            |SRM 701                            |1       |True 
+KthStringAgain                          |SRM 701                            |2       |False
+FibonacciStringSum                      |SRM 701                            |3       |False
+FindingFriend                           |SRM 700                            |1       |True 
+CrazyFunctions                          |SRM 700                            |2       |False
+AnyNumber                               |SRM 700                            |3       |False
+DivideJewelry                           |2016 TCO Fun Round                 |1       |False
+ConnectedSubgraph                       |2016 TCO Fun Round                 |2       |False
+SplittingFoxes3                         |2016 TCO Fun Round                 |3       |False
+OthersXor                               |SRM 699 (Cisco)                    |1       |False
+FromToDivisible                         |SRM 699 (Cisco)                    |2       |False
+TwoSquares                              |SRM 699 (Cisco)                    |3       |False
+RepeatString                            |SRM 698 (Google)                   |1       |False
+IntersectingConvexHull                  |SRM 698 (Google)                   |2       |False
+Puzzle58                                |SRM 698 (Google)                   |3       |False
+DivideJewelry                           |2016 TCO Regional Wildcard         |1       |False
+ConnectedSubgraph                       |2016 TCO Regional Wildcard         |2       |False
+SplittingFoxes3                         |2016 TCO Regional Wildcard         |3       |False
+BuffingPixie                            |2016 TCO Russia Regional           |1       |False
+CloneGauntlet2                          |2016 TCO Russia Regional           |2       |False
+RiggedLottery                           |2016 TCO Russia Regional           |3       |False
+RemoveCharacters                        |2016 TCO Algo 3B                   |1       |False
+MaterialImplication                     |2016 TCO Algo 3B                   |2       |False
+RPSRobots                               |2016 TCO Algo 3B                   |3       |False
+MultiplyXPlusOne                        |2016 TCC India Final               |1       |False
+PolygonSet                              |2016 TCC India Final               |2       |False
+SumOfXor                                |2016 TCC India Final               |3       |False
+MultiplyXPlusOne                        |2016 TCO India Regional            |1       |False
+PolygonSet                              |2016 TCO India Regional            |2       |False
+SumOfXor                                |2016 TCO India Regional            |3       |False
+ParenthesesAndPermutation               |2016 TCO Algo 3A                   |1       |False
+FoxAndGo4                               |2016 TCO Algo 3A                   |2       |False
+TopologicalOrdering                     |2016 TCO Algo 3A                   |3       |False
+DivisibleSetDiv1                        |SRM 697                            |1       |True 
+XorOrderDiv1                            |SRM 697                            |2       |False
+ConnectedStates                         |SRM 697                            |3       |False
+Gperm                                   |SRM 696                            |1       |False
+Clicounting                             |SRM 696                            |2       |False
+Substreeng                              |SRM 696                            |3       |False
+MakingPairs                             |2016 TCC India Online Round        |1       |False
+DistinguishableSetDiv2                  |2016 TCC India Online Round        |2       |False
+UpDownNess                              |2016 TCC India Online Round        |3       |False
+BearPasswordLexic                       |SRM 695                            |1       |False
+BearKRoads                              |SRM 695                            |2       |False
+BearEmptyCoin                           |SRM 695                            |3       |False
+TrySail                                 |SRM 694                            |1       |True 
+DistinguishableSetDiv1                  |SRM 694                            |2       |True 
+SRMDiv0Easy                             |SRM 694                            |3       |False
+BearBall                                |2016 TCO Algo Parallel 2C          |1       |False
+BearGridRect                            |2016 TCO Algo Parallel 2C          |2       |False
+BearCircleGame                          |2016 TCO Algo Parallel 2C          |3       |False
+BearBall                                |2016 TCO Algo 2C                   |1       |False
+BearGridRect                            |2016 TCO Algo 2C                   |2       |False
+BearCircleGame                          |2016 TCO Algo 2C                   |3       |False
+EllysCandyBags                          |2016 TCO NYC Regional              |1       |False
+EllysBounceGame                         |2016 TCO NYC Regional              |2       |False
+EllysAndor                              |2016 TCO NYC Regional              |3       |False
+BiconnectedDiv1                         |SRM 693                            |1       |True 
+BipartiteConstruction                   |SRM 693                            |2       |False
+TriangleFree                            |SRM 693                            |3       |False
+HardProof                               |SRM 692                            |1       |True 
+LinenCenter                             |SRM 692                            |2       |True 
+TreeSums                                |SRM 692                            |3       |False
+GroupSRMDiv2                            |2016 TCO Beijing Regional          |1       |False
+DarkMatterParticles                     |2016 TCO Beijing Regional          |2       |False
+MagicalMatrix                           |2016 TCO Beijing Regional          |3       |False
+TriangleTriples                         |2016 TCO Algo Parallel 2B          |1       |False
+FoxAndGemstone                          |2016 TCO Algo Parallel 2B          |2       |False
+ParenthesesTree                         |2016 TCO Algo Parallel 2B          |3       |False
+TriangleTriples                         |2016 TCO Algo 2B                   |1       |False
+FoxAndGemstone                          |2016 TCO Algo 2B                   |2       |False
+ParenthesesTree                         |2016 TCO Algo 2B                   |3       |False
+LCMGCD                                  |2016 TCO Algo 2A                   |1       |False
+CliqueCuts                              |2016 TCO Algo 2A                   |2       |False
+VendingMachines                         |2016 TCO Algo 2A                   |3       |False
+Sunnygraphs                             |SRM 691                            |1       |True 
+Moneymanager                            |SRM 691                            |2       |False
+Undivisors                              |SRM 691                            |3       |False
+SumFullSet                              |2016 TCO Algo 1C                   |1       |True 
+ThreeProgrammers                        |2016 TCO Algo 1C                   |2       |True 
+PrimeStrings                            |2016 TCO Algo 1C                   |3       |False
+ExploringNumbers                        |2016 TCO Algo 1B                   |1       |True 
+ReplacingDigit                          |2016 TCO Algo 1B                   |2       |True 
+SettingShield                           |2016 TCO Algo 1B                   |3       |False
+ColorfulGarden                          |SRM 689                            |1       |False
+MultiplicationTable3                    |SRM 689                            |2       |False
+ZeroPointSixThreeSix                    |SRM 689                            |3       |False
+ParenthesesDiv1Easy                     |SRM 688                            |1       |False
+ParenthesesDiv1Medium                   |SRM 688                            |2       |False
+ParenthesesDiv1Hard                     |SRM 688                            |3       |False
+AlmostFibonacciKnapsack                 |SRM 687                            |1       |True 
+AllGraphCuts                            |SRM 687                            |2       |False
+AlienSkiSlopes                          |SRM 687                            |3       |False
+EllysTimeMachine                        |2016 TCO Algo 1A                   |1       |True 
+EllysSocks                              |2016 TCO Algo 1A                   |2       |True 
+EllysTree                               |2016 TCO Algo 1A                   |3       |False
+BracketSequenceDiv1                     |SRM 686                            |1       |True 
+CyclesNumber                            |SRM 686                            |2       |False
+XorPuzzle                               |SRM 686                            |3       |False
+MultiplicationTable2                    |SRM 685                            |1       |True 
+FoxAirline2                             |SRM 685                            |2       |False
+InverseMatrixTree                       |SRM 685                            |3       |False
+CliqueParty                             |SRM 684                            |1       |False
+DivFree                                 |SRM 684                            |2       |False
+Permutant                               |SRM 684                            |3       |False
+MoveStones                              |SRM 683                            |1       |True 
+GCDLCM2                                 |SRM 683                            |2       |False
+RandomWalkOnGrid                        |SRM 683                            |3       |False
+SmilesTheFriendshipUnicorn              |SRM 682                            |1       |True 
+SuccessfulMerger                        |SRM 682                            |2       |False
+TheKFactor                              |SRM 682                            |3       |False
+FleetFunding                            |SRM 681                            |1       |False
+LimitedMemorySeries2                    |SRM 681                            |2       |False
+CoinFlips                               |SRM 681                            |3       |False
+BearFair                                |SRM 680                            |1       |True 
+BearSpans                               |SRM 680                            |2       |True 
+BearPairs                               |SRM 680                            |3       |False
+FiringEmployees                         |SRM 679                            |1       |True 
+RedAndBluePoints                        |SRM 679                            |2       |False
+BagAndCards                             |SRM 679                            |3       |True 
+ANewHope                                |SRM 678                            |1       |True 
+TheEmpireStrikesBack                    |SRM 678                            |2       |True 
+ReturnOfTheJedi                         |SRM 678                            |3       |False
+DoubleOrOneEasy                         |SRM 677                            |1       |False
+DiameterOfRandomTree                    |SRM 677                            |2       |False
+GameOnGraph                             |SRM 677                            |3       |False
+WaterTank                               |SRM 676                            |1       |True 
+BoardEscape                             |SRM 676                            |2       |True 
+Farmville                               |SRM 676                            |3       |False
+TreeAndPathLength3                      |SRM 675                            |1       |True 
+LimitedMemorySeries1                    |SRM 675                            |2       |True 
+BichromeSky2                            |SRM 675                            |3       |False
+VampireTree                             |SRM 674                            |1       |True 
+FindingKids                             |SRM 674                            |2       |False
+ClassicProblem                          |SRM 674                            |3       |False
+BearCavalry                             |SRM 673                            |1       |False
+BearPermutations                        |SRM 673                            |2       |False
+BearGirls                               |SRM 673                            |3       |False
+Jumps                                   |2015 TCO Final                     |1       |False
+FrogsOnGrid                             |2015 TCO Final                     |2       |False
+DemocraticAssignment                    |2015 TCO Final                     |3       |False
+ConsecutiveFloors                       |2015 TCO Semifinal                 |1       |False
+FoxAirline                              |2015 TCO Semifinal                 |2       |False
+DoubleOrOne                             |2015 TCO Semifinal                 |3       |False
+BearFills                               |2015 TCO Parallel 3B               |1       |False
+BearEats                                |2015 TCO Parallel 3B               |2       |False
+CommutativeMapping                      |2015 TCO Parallel 3B               |3       |False
+BearFills                               |2015 TCO 3B                        |1       |False
+BearEats                                |2015 TCO 3B                        |2       |False
+CommutativeMapping                      |2015 TCO 3B                        |3       |False
+BearCharges                             |2015 TCO 3A                        |1       |False
+LuckyGrid                               |2015 TCO 3A                        |2       |False
+SubRectangles                           |2015 TCO 3A                        |3       |False
+Procrastination                         |SRM 672                            |1       |False
+AlmostEulerianGraph                     |SRM 672                            |2       |False
+Tdetective                              |SRM 672                            |3       |False
+BearCries                               |SRM 671                            |1       |False
+BearDarts                               |SRM 671                            |2       |False
+BearDestroys                            |SRM 671                            |3       |False
+Bracket107                              |SRM 670                            |1       |False
+Treestrat                               |SRM 670                            |2       |False
+Gxor                                    |SRM 670                            |3       |False
+SubdividedSlimes                        |SRM 669                            |1       |False
+LineMST                                 |SRM 669                            |2       |False
+PowerPartition                          |SRM 669                            |3       |False
+PaintTheRoom                            |SRM 668                            |1       |False
+WalkingToSchool                         |SRM 668                            |2       |False
+Brainstuck                              |SRM 668                            |3       |False
+OrderOfOperations                       |SRM 667                            |1       |False
+CatsOnTheCircle                         |SRM 667                            |2       |False
+BipartiteGraphGame                      |SRM 667                            |3       |False
+BalancedSubstrings                      |2015 TCO Parallel 2D               |1       |False
+BallsInBoxes                            |2015 TCO Parallel 2D               |2       |False
+AToughGame                              |2015 TCO Parallel 2D               |3       |False
+BalancedSubstrings                      |2015 TCO 2D                        |1       |False
+BallsInBoxes                            |2015 TCO 2D                        |2       |False
+AToughGame                              |2015 TCO 2D                        |3       |False
+YetAnotherCardGame                      |2015 TCO Parallel 2C               |1       |False
+LongSeat                                |2015 TCO Parallel 2C               |2       |False
+PopcountRobot                           |2015 TCO Parallel 2C               |3       |False
+YetAnotherCardGame                      |2015 TCO 2C                        |1       |False
+LongSeat                                |2015 TCO 2C                        |2       |False
+PopcountRobot                           |2015 TCO 2C                        |3       |False
+WalkOverATree                           |SRM 666                            |1       |False
+SumOverPermutations                     |SRM 666                            |2       |False
+CountBinarySequences                    |SRM 666                            |3       |False
+LuckySum                                |SRM 665                            |1       |False
+HatParade                               |SRM 665                            |1       |False
+LuckyTree                               |SRM 665                            |3       |False
+BearPlays                               |SRM 664                            |1       |False
+BearAttacks                             |SRM 664                            |2       |False
+BearSorts                               |SRM 664                            |3       |False
+ABBADiv1                                |SRM 663                            |1       |False
+ChangingChange                          |SRM 663                            |2       |False
+WarAndPeas                              |SRM 663                            |3       |False
+FoxesOfTheRoundTable                    |SRM 662                            |1       |False
+ExactTree                               |SRM 662                            |2       |False
+MultiplicationTable                     |SRM 662                            |3       |False
+Bitwisdom                               |2015 TCO Parallel 2B               |1       |False
+Balance                                 |2015 TCO Parallel 2B               |2       |False
+MinimumCuts                             |2015 TCO Parallel 2B               |3       |False
+Bitwisdom                               |2015 TCO 2B                        |1       |False
+Balance                                 |2015 TCO 2B                        |2       |False
+MinimumCuts                             |2015 TCO 2B                        |3       |False
+ModModMod                               |2015 TCO 2A                        |1       |False
+FoxMeeting                              |2015 TCO 2A                        |2       |False
+TrianglePainting                        |2015 TCO 2A                        |3       |False
+MissingLCM                              |SRM 661                            |1       |False
+ColorfulLineGraphs                      |SRM 661                            |2       |False
+BridgeBuilding                          |SRM 661                            |3       |False
+Coversta                                |SRM 660                            |1       |False
+Privateparty                            |SRM 660                            |2       |False
+Morphling                               |SRM 660                            |3       |False
+ApplesAndOrangesEasy                    |SRM 659                            |1       |False
+CampLunch                               |SRM 659                            |2       |False
+PublicTransitHard                       |SRM 659                            |3       |False
+OddEvenTree                             |SRM 658                            |1       |False
+Mutalisk                                |SRM 658                            |2       |False
+DancingForever                          |SRM 658                            |3       |False
+TheNicePair                             |2015 TCO 1B                        |1       |False
+TheTips                                 |2015 TCO 1B                        |2       |False
+TheTreeAndMan                           |2015 TCO 1B                        |3       |False
+Similars                                |2015 TCO 1A                        |1       |False
+Autogame                                |2015 TCO 1A                        |2       |False
+Revmatching                             |2015 TCO 1A                        |3       |False
+ProblemSets                             |SRM 657                            |1       |False
+PolynomialGCD                           |SRM 657                            |2       |False
+RookGraph                               |SRM 657                            |3       |False
+RandomPancakeStack                      |SRM 656                            |1       |False
+PermutationCounts                       |SRM 656                            |2       |False
+ForkliftTruckOperator                   |SRM 656                            |3       |False
+BichromePainting                        |SRM 655                            |1       |False
+Nine                                    |SRM 655                            |2       |False
+BichromeSky                             |SRM 655                            |3       |False
+SquareScores                            |SRM 654                            |1       |False
+SuccessiveSubtraction2                  |SRM 654                            |2       |False
+TwoEntrances                            |SRM 654                            |3       |False
+CountryGroupHard                        |SRM 653                            |1       |False
+Singing                                 |SRM 653                            |2       |False
+RockPaperScissorsMagic                  |SRM 653                            |3       |False
+ThePermutationGame                      |SRM 652                            |1       |False
+MaliciousPath                           |SRM 652                            |2       |False
+NoRightTurn                             |SRM 652                            |3       |False
+TaroFillingAStringDiv1                  |SRM 650                            |1       |False
+TheKingsRoadsDiv1                       |SRM 650                            |2       |False
+LegendOfAdlez                           |SRM 650                            |3       |False
+Decipherability                         |SRM 649                            |1       |False
+XorSequence                             |SRM 649                            |2       |False
+CartInSupermarket                       |SRM 649                            |3       |False
+AB                                      |SRM 648                            |1       |False
+KitayutaMart                            |SRM 648                            |2       |False
+Fragile                                 |SRM 648                            |3       |False
+BuildingTowersEasy                      |SRM 647                            |1       |False
+CtuRobots                               |SRM 647                            |2       |False
+ConvenientBlock                         |SRM 647                            |3       |False
+TheConsecutiveIntegersDivOne            |SRM 646                            |1       |False
+TheGridDivOne                           |SRM 646                            |2       |False
+TheFootballDivOne                       |SRM 646                            |3       |False
+JanuszTheBusinessman                    |SRM 645                            |1       |False
+ArmyTeleportation                       |SRM 645                            |2       |False
+AquaparkPuzzle                          |SRM 645                            |3       |False
+AnEasyProblem                           |TCO 2014 Celebrity Match           |1       |False
+ConcatenateNumbers                      |TCO 2014 Celebrity Match           |2       |False
+CityRebuild                             |TCO 2014 Celebrity Match           |3       |False
+LoopyPath                               |TCO 2014 Finals                    |1       |False
+MagicalRocketCar                        |TCO 2014 Finals                    |2       |False
+FrozenStandings                         |TCO 2014 Finals                    |3       |False
+AndPicture                              |TCO 2014 Wildcard                  |1       |False
+CountTables                             |TCO 2014 Wildcard                  |2       |False
+EnergyGameOnGrid                        |TCO 2014 Wildcard                  |3       |False
+PlankTiling                             |TCO 2014 Semifinal 2               |1       |False
+RoadsReform                             |TCO 2014 Semifinal 2               |2       |False
+TwiceTwiceTree                          |TCO 2014 Semifinal 2               |3       |False
+ZooExchangeProgram                      |TCO 2014 Semifinal 1               |1       |False
+AutomorphicTree                         |TCO 2014 Semifinal 1               |2       |False
+CarrotField                             |TCO 2014 Semifinal 1               |3       |False
+TheKingsFactorization                   |SRM 643                            |1       |False
+TheKingsArmyDiv1                        |SRM 643                            |2       |False
+CasinoGame                              |SRM 643                            |3       |False
+WaitingForBus                           |SRM 642                            |1       |False
+TaroCutting                             |SRM 642                            |2       |False
+WheelofFortune                          |SRM 642                            |3       |False
+ChristmasTreeDecoration                 |SRM 640                            |1       |False
+MaximumBipartiteMatchingProblem         |SRM 640                            |2       |False
+TwoNumberGroups                         |SRM 640                            |3       |False
+AliceGame                               |SRM 639                            |1       |False
+BoardFolding                            |SRM 639                            |2       |False
+ElectronicPet                           |SRM 639                            |3       |False
+ShadowSculpture                         |SRM 638                            |1       |False
+NarrowPassage2                          |SRM 638                            |2       |False
+CandleTimer                             |SRM 638                            |3       |False
+GreaterGame                             |SRM 637                            |1       |False
+PathGame                                |SRM 637                            |2       |False
+ConnectingGame                          |SRM 637                            |3       |False
+SimilarRatingGraph                      |SRM 635                            |1       |False
+StoryFromTCO                            |SRM 635                            |2       |False
+ColourHolic                             |SRM 635                            |3       |False
+ShoppingSurveyDiv1                      |SRM 634                            |1       |False
+SegmentDrawing                          |SRM 634                            |2       |False
+SegmentCutting                          |SRM 634                            |3       |False
+PeriodicJumping                         |SRM 633                            |1       |False
+DoubleTree                              |SRM 633                            |2       |False
+GCDLCM                                  |SRM 633                            |3       |False
+PotentialArithmeticSequence             |SRM 632 - TCO14 Wildcard Sweep     |1       |False
+CandyCupRunningCompetition              |SRM 632 - TCO14 Wildcard Sweep     |2       |False
+PatternLock                             |SRM 632 - TCO14 Wildcard Sweep     |3       |False
+TaroJiroGrid                            |SRM 631                            |1       |False
+CatsOnTheLineDiv1                       |SRM 631                            |1       |False
+TaroTreeRequests                        |SRM 631                            |3       |False
+Egalitarianism3                         |SRM 630                            |1       |False
+SuffixArrayDiv1                         |SRM 630                            |2       |False
+NeverAskHerAge                          |SRM 630                            |3       |False
+RectangleCovering                       |SRM 629                            |1       |False
+CandyCollection                         |SRM 629                            |2       |False
+CandyDrawing                            |SRM 629                            |3       |False
+IntoTheMatrix                           |TCO14 Parallel Round 3B            |1       |False
+OnePointNineNine                        |TCO14 Parallel Round 3B            |2       |False
+TreeDistance                            |TCO14 Parallel Round 3B            |3       |False
+IntoTheMatrix                           |TCO14 Round 3B                     |1       |False
+OnePointNineNine                        |TCO14 Round 3B                     |2       |False
+TreeDistance                            |TCO14 Round 3B                     |3       |False
+BrightLamps                             |TCO14 Round 3A                     |1       |False
+RandomFlights                           |TCO14 Round 3A                     |2       |False
+PlumbersCoins                           |TCO14 Round 3A                     |3       |False
+SubstringReversal                       |TCO14 Parallel Round 2C            |1       |False
+CliqueGraph                             |TCO14 Parallel Round 2C            |2       |False
+InverseRMQ                              |TCO14 Parallel Round 2C            |3       |False
+SubstringReversal                       |TCO14 Round 2C                     |1       |False
+CliqueGraph                             |TCO14 Round 2C                     |2       |False
+InverseRMQ                              |TCO14 Round 2C                     |3       |False
+DivisorsPower                           |SRM 628                            |1       |False
+CircuitsConstruction                    |SRM 628                            |2       |False
+DoraemonPuzzleGame                      |SRM 628                            |3       |False
+HappyLetterDiv1                         |SRM 627                            |1       |False
+GraphInversions                         |SRM 627                            |2       |False
+LaserTowersDiv1                         |SRM 627                            |3       |False
+SwitchingGame                           |TCO14 Parallel Round 2B            |1       |False
+SumAndProductPuzzle                     |TCO14 Parallel Round 2B            |2       |False
+AlwaysDefined                           |TCO14 Parallel Round 2B            |3       |False
+SwitchingGame                           |TCO14 Round 2B                     |1       |False
+SumAndProductPuzzle                     |TCO14 Round 2B                     |2       |False
+AlwaysDefined                           |TCO14 Round 2B                     |3       |False
+SixteenBricks                           |TCO14 Round 2A                     |1       |False
+NarrowPassage                           |TCO14 Round 2A                     |2       |False
+TreePuzzle                              |TCO14 Round 2A                     |3       |False
+Unique                                  |TCO14 Round 1C                     |1       |False
+FizzBuzzTurbo                           |TCO14 Round 1C                     |2       |False
+RedPaint                                |TCO14 Round 1C                     |3       |False
+SpamChecker                             |TCO14 Round 1B                     |1       |False
+WolvesAndSheep                          |TCO14 Round 1B                     |2       |False
+EagleInZoo                              |TCO14 Round 1B                     |3       |False
+EllysSortingTrimmer                     |TCO14 Round 1A                     |1       |False
+EllysScrabble                           |TCO14 Round 1A                     |2       |False
+EllysLamps                              |TCO14 Round 1A                     |3       |False
+FixedDiceGameDiv1                       |SRM 626                            |1       |False
+NegativeGraphDiv1                       |SRM 626                            |2       |False
+ReflectiveRectangle                     |SRM 626                            |3       |False
+PalindromePermutations                  |SRM 625                            |1       |False
+BlockTheBlockPuzzle                     |SRM 625                            |2       |False
+Seatfriends                             |SRM 625                            |3       |False
+BuildingHeights                         |SRM 624                            |1       |False
+DrivingPlans                            |SRM 624                            |2       |False
+TreeColoring                            |SRM 624                            |3       |False
+UniformBoard                            |SRM 623                            |1       |False
+CatchTheBeat                            |SRM 623                            |2       |False
+AliceAndFriends                         |SRM 623                            |3       |False
+BuildingRoutes                          |SRM 622                            |1       |False
+Ethernet                                |SRM 622                            |2       |False
+FibonacciXor                            |SRM 622                            |3       |False
+RadioRange                              |SRM 621                            |1       |False
+TreesAnalysis                           |SRM 621                            |2       |False
+StringsNightmareAgain                   |SRM 621                            |3       |False
+PairGame                                |SRM 620                            |1       |False
+CandidatesSelection                     |SRM 620                            |2       |False
+PerfectSquare                           |SRM 620                            |3       |False
+SplitStoneGame                          |SRM 619                            |1       |False
+GoodCompanyDivOne                       |SRM 619                            |2       |False
+SimilarSequencesAnother                 |SRM 619                            |3       |False
+Family                                  |SRM 618                            |1       |False
+LongWordsDiv1                           |SRM 618                            |2       |False
+MovingRooksDiv1                         |SRM 618                            |3       |False
+WakingUp                                |SRM 616                            |1       |False
+ColorfulCoins                           |SRM 616                            |2       |False
+ThreeLLogo                              |SRM 616                            |3       |False
+AmebaDiv1                               |SRM 615                            |1       |False
+LongLongTripDiv1                        |SRM 615                            |2       |False
+AlternativePiles                        |SRM 615                            |3       |False
+MinimumSquare                           |SRM 614                            |1       |False
+CycleColoring                           |SRM 614                            |2       |False
+TorusSailing                            |SRM 614                            |3       |False
+TaroFriends                             |SRM 613                            |1       |False
+RandomGCD                               |SRM 613                            |2       |False
+TaroCheckers                            |SRM 613                            |3       |False
+EmoticonsDiv1                           |SRM 612                            |1       |False
+SpecialCells                            |SRM 612                            |2       |False
+LeftAndRightHandedDiv1                  |SRM 612                            |3       |False
+LCMSet                                  |SRM 611                            |1       |False
+Egalitarianism2                         |SRM 611                            |2       |False
+ElephantDrinking                        |SRM 611                            |3       |False
+TheMatrix                               |SRM 610                            |1       |False
+AlbertoTheAviator                       |SRM 610                            |2       |False
+MiningGoldHard                          |SRM 610                            |3       |False
+MagicalStringDiv1                       |SRM 609                            |1       |False
+PackingBallsDiv1                        |SRM 609                            |2       |False
+LotteryTree                             |SRM 609                            |3       |False
+MysticAndCandies                        |SRM 608                            |1       |False
+BigO                                    |SRM 608                            |2       |False
+OneDimensionalRobot                     |SRM 608                            |3       |False
+PalindromicSubstringsDiv1               |SRM 607                            |1       |False
+CombinationLockDiv1                     |SRM 607                            |2       |False
+PulleyTautLine                          |SRM 607                            |3       |False
+EllysNumberGuessing                     |SRM 606                            |1       |False
+EllysPairing                            |SRM 606                            |2       |False
+Subcube                                 |SRM 606                            |3       |False
+AlienAndHamburgers                      |SRM 605                            |1       |False
+AlienAndSetDiv1                         |SRM 605                            |2       |False
+AlienAndPermutation                     |SRM 605                            |3       |False
+PowerOfThree                            |SRM 604                            |1       |False
+FoxConnection                           |SRM 604                            |2       |False
+FamilyCrest                             |SRM 604                            |3       |False
+MaxMinTreeGame                          |SRM 603                            |1       |False
+PairsOfStrings                          |SRM 603                            |2       |False
+SumOfArrays                             |SRM 603                            |3       |False
+TypoCoderDiv1                           |SRM 602                            |1       |False
+PilingRectsDiv1                         |SRM 602                            |2       |False
+BlackBoxDiv1                            |SRM 602                            |3       |False
+ScoringSystems                          |TCO13 Championship Round           |1       |False
+PackingSquares                          |TCO13 Championship Round           |2       |False
+TBlocks                                 |TCO13 Championship Round           |3       |False
+TheFourSquares                          |TCO13 Wildcard Round               |1       |False
+ModuloCounters                          |TCO13 Wildcard Round               |2       |False
+SemiMultiple                            |TCO13 Wildcard Round               |3       |False
+GoodNumbers                             |TCO13 Semifinal 2                  |1       |False
+JumpingOnTheGrid                        |TCO13 Semifinal 2                  |2       |False
+OneBlack                                |TCO13 Semifinal 2                  |3       |False
+RabbitsAndCakes                         |TCO13 Semifinal 1                  |1       |False
+TheGameDAG                              |TCO13 Semifinal 1                  |2       |False
+GameWithTree                            |TCO13 Semifinal 1                  |3       |False
+WinterAndPresents                       |SRM 601                            |1       |False
+WinterAndSnowmen                        |SRM 601                            |2       |False
+WinterAndShopping                       |SRM 601                            |3       |False
+ORSolitaire                             |SRM 600                            |1       |False
+PalindromeMatrix                        |SRM 600                            |2       |False
+LotsOfLines                             |SRM 600                            |3       |False
+BigFatInteger                           |SRM 599                            |1       |False
+FindPolygons                            |SRM 599                            |2       |False
+SimilarNames                            |SRM 599                            |3       |False
+BinPacking                              |SRM 598                            |1       |False
+FoxAndFencing                           |SRM 598                            |2       |False
+TPS                                     |SRM 598                            |3       |False
+LittleElephantAndString                 |SRM 597                            |1       |False
+ConvexPolygonGame                       |SRM 597                            |2       |False
+LittleElephantAndBoard                  |SRM 597                            |3       |False
+IncrementAndDoubling                    |SRM 596                            |1       |True 
+BitwiseAnd                              |SRM 596                            |2       |False
+SparseFactorial                         |SRM 596                            |3       |False
+LittleElephantAndIntervalsDiv1          |SRM 595                            |1       |False
+LittleElephantAndRGB                    |SRM 595                            |2       |False
+Constellation                           |SRM 595                            |3       |False
+AstronomicalRecords                     |SRM 594                            |1       |False
+FoxAndGo3                               |SRM 594                            |2       |False
+FoxAndAvatar                            |SRM 594                            |3       |False
+HexagonalBoard                          |SRM 593                            |1       |True 
+MayTheBestPetWin                        |SRM 593                            |2       |True 
+WolfDelaymasterHard                     |SRM 593                            |3       |False
+LittleElephantAndBalls                  |SRM 592                            |1       |False
+LittleElephantAndPermutationDiv1        |SRM 592                            |2       |False
+SplittingFoxes2                         |SRM 592                            |3       |False
+TheTree                                 |SRM 591                            |1       |False
+PyramidSequences                        |SRM 591                            |2       |False
+StringPath                              |SRM 591                            |3       |False
+FoxAndChess                             |SRM 590                            |1       |False
+XorCards                                |SRM 590                            |2       |False
+FoxAndCity                              |SRM 590                            |3       |False
+GooseTattarrattatDiv1                   |SRM 589                            |1       |False
+GearsDiv1                               |SRM 589                            |2       |False
+FlippingBitsDiv1                        |SRM 589                            |3       |False
+GUMIAndSongsDiv1                        |SRM 588                            |1       |False
+KeyDungeonDiv1                          |SRM 588                            |2       |False
+GameInDarknessDiv1                      |SRM 588                            |3       |False
+JumpFurther                             |SRM 587                            |1       |False
+TriangleXor                             |SRM 587                            |2       |False
+ThreeColorability                       |SRM 587                            |3       |False
+PiecewiseLinearFunction                 |SRM 586                            |1       |False
+History                                 |SRM 586                            |2       |False
+StringWeight                            |SRM 586                            |3       |False
+TrafficCongestion                       |SRM 585                            |1       |True 
+LISNumber                               |SRM 585                            |2       |True 
+EnclosingTriangle                       |SRM 585                            |3       |True 
+Egalitarianism                          |SRM 584                            |1       |False
+Excavations                             |SRM 584                            |2       |False
+FoxTheLinguist                          |SRM 584                            |3       |False
+SimilarSequences                        |TCO13 Parallel Round 3B            |1       |False
+AntlerSwapping                          |TCO13 Parallel Round 3B            |2       |False
+ToastJumping                            |TCO13 Parallel Round 3B            |3       |False
+SimilarSequences                        |TCO13 Round 3B                     |1       |False
+AntlerSwapping                          |TCO13 Round 3B                     |2       |False
+ToastJumping                            |TCO13 Round 3B                     |3       |False
+YetAnotherANDProblem                    |TCO13 Round 3A                     |1       |False
+Block3Checkers                          |TCO13 Round 3A                     |2       |False
+TrickyInequality                        |TCO13 Round 3A                     |3       |False
+DancingFoxes                            |TCO13 Round 2C                     |1       |False
+TheMountain                             |TCO13 Round 2C                     |2       |False
+WellTimedSearch                         |TCO13 Round 2C                     |3       |False
+FruitTrees                              |TCO13 Round 2B                     |1       |False
+ScotlandYard                            |TCO13 Round 2B                     |2       |False
+LitPanels                               |TCO13 Round 2B                     |3       |False
+TheLargestString                        |TCO13 Round 2A                     |1       |False
+TheMagicMatrix                          |TCO13 Round 2A                     |2       |False
+ThePowers                               |TCO13 Round 2A                     |3       |False
+TheArray                                |TCO13 Round 1C                     |1       |False
+TheOlympiadInInformatics                |TCO13 Round 1C                     |2       |False
+TheKnights                              |TCO13 Round 1C                     |3       |False
+EllysPairs                              |TCO13 Round 1B                     |1       |False
+EllysFigurines                          |TCO13 Round 1B                     |2       |False
+EllysReversals                          |TCO13 Round 1B                     |3       |False
+HouseBuilding                           |TCO13 Round 1A                     |1       |False
+TheFrog                                 |TCO13 Round 1A                     |2       |False
+DirectionBoard                          |TCO13 Round 1A                     |3       |False
+TravelOnMars                            |SRM 583                            |1       |False
+TurnOnLamps                             |SRM 583                            |2       |False
+RandomPaintingOnABoard                  |SRM 583                            |3       |False
+SpaceWarDiv1                            |SRM 582                            |1       |False
+ColorfulBuilding                        |SRM 582                            |2       |False
+SemiPerfectPower                        |SRM 582                            |3       |False
+SurveillanceSystem                      |SRM 581                            |1       |False
+TreeUnion                               |SRM 581                            |2       |False
+YetAnotherBoardGame                     |SRM 581                            |3       |False
+EelAndRabbit                            |SRM 580                            |1       |False
+ShoutterDiv1                            |SRM 580                            |2       |False
+WallGameDiv1                            |SRM 580                            |3       |False
+UndoHistory                             |SRM 579                            |1       |False
+TravellingPurchasingMan                 |SRM 579                            |2       |False
+RockPaperScissors                       |SRM 579                            |3       |False
+GooseInZooDivOne                        |SRM 578                            |1       |False
+WolfInZooDivOne                         |SRM 578                            |2       |False
+DeerInZooDivOne                         |SRM 578                            |3       |False
+EllysRoomAssignmentsDiv1                |SRM 577                            |1       |False
+EllysChessboard                         |SRM 577                            |2       |False
+BoardPainting                           |SRM 577                            |3       |False
+ArcadeManao                             |SRM 576                            |1       |False
+TheExperiment                           |SRM 576                            |2       |False
+CharacterBoard                          |SRM 576                            |3       |False
+TheNumberGameDivOne                     |SRM 575                            |1       |False
+TheSwapsDivOne                          |SRM 575                            |2       |False
+TheTilesDivOne                          |SRM 575                            |3       |False
+TheNumberGame                           |SRM 574                            |1       |True 
+PolygonTraversal                        |SRM 574                            |2       |False
+Tunnels                                 |SRM 574                            |3       |False
+TeamContest                             |SRM 573                            |1       |False
+SkiResorts                              |SRM 573                            |2       |False
+WolfPack                                |SRM 573                            |3       |False
+NewArenaPassword                        |SRM 572                            |1       |False
+EllysBulls                              |SRM 572                            |2       |False
+NextAndPrev                             |SRM 572                            |3       |False
+FoxAndMp3                               |SRM 571                            |1       |False
+MagicMolecule                           |SRM 571                            |2       |False
+CandyOnDisk                             |SRM 571                            |3       |False
+RobotHerb                               |SRM 570                            |1       |False
+CentaurCompany                          |SRM 570                            |2       |False
+CurvyonRails                            |SRM 570                            |3       |False
+TheDevice                               |SRM 569                            |1       |False
+TheJediTest                             |SRM 569                            |2       |False
+MegaFactorial                           |SRM 569                            |3       |False
+BallsSeparating                         |SRM 568                            |1       |False
+EqualSums                               |SRM 568                            |2       |False
+DisjointSemicircles                     |SRM 568                            |3       |False
+TheSquareRootDilemma                    |SRM 567                            |1       |False
+StringGame                              |SRM 567                            |2       |False
+Mountains                               |SRM 567                            |3       |False
+PenguinSledding                         |SRM 566                            |1       |False
+PenguinEmperor                          |SRM 566                            |2       |False
+FencingPenguins                         |SRM 566                            |3       |False
+XorGame                                 |TCO12 Championship Round           |1       |False
+PeriodicTiling                          |TCO12 Championship Round           |2       |False
+DistanceGraph                           |TCO12 Championship Round           |3       |False
+CrossingTheRiver                        |TCO12 Parallel Round 3B            |1       |False
+ElevenMultiples                         |TCO12 Parallel Round 3B            |2       |False
+PQHulls                                 |TCO12 Parallel Round 3B            |3       |False
+MonstersValley                          |SRM 565                            |1       |False
+TheDivisionGame                         |SRM 565                            |2       |False
+UnknownTree                             |SRM 565                            |3       |False
+KnightCircuit2                          |SRM 564                            |1       |False
+AlternateColors2                        |SRM 564                            |2       |False
+DefectiveAddition                       |SRM 564                            |3       |False
+FoxAndHandle                            |SRM 563                            |1       |False
+SpellCards                              |SRM 563                            |2       |False
+CoinsGame                               |SRM 563                            |3       |False
+PastingPaintingDivOne                   |SRM 562                            |1       |False
+CheckerFreeness                         |SRM 562                            |2       |False
+InducedSubgraphs                        |SRM 562                            |3       |False
+ICPCBalloons                            |SRM 561                            |1       |False
+CirclesGame                             |SRM 561                            |2       |False
+Orienteering                            |SRM 561                            |3       |False
+TomekPhone                              |SRM 560                            |1       |False
+DrawingPointsDivOne                     |SRM 560                            |2       |False
+BoundedOptimization                     |SRM 560                            |3       |False
+HyperKnight                             |SRM 559                            |1       |False
+HatRack                                 |SRM 559                            |2       |False
+CircusTents                             |SRM 559                            |3       |False
+Stamp                                   |SRM 558                            |1       |False
+Ear                                     |SRM 558                            |2       |False
+SurroundingGame                         |SRM 558                            |3       |False
+FoxAndMountainEasy                      |SRM 557                            |1       |False
+Incubator                               |SRM 557                            |2       |False
+XorAndSum                               |SRM 557                            |3       |False
+XorTravelingSalesman                    |SRM 556                            |1       |False
+LeftRightDigitsGame2                    |SRM 556                            |2       |False
+OldBridges                              |SRM 556                            |3       |False
+CuttingBitString                        |SRM 555                            |1       |False
+XorBoard                                |SRM 555                            |2       |False
+MapGuessing                             |SRM 555                            |3       |False
+TheBrickTowerEasyDivOne                 |SRM 554                            |1       |False
+TheBrickTowerMediumDivOne               |SRM 554                            |2       |False
+TheBrickTowerHardDivOne                 |SRM 554                            |3       |False
+Suminator                               |SRM 553                            |1       |False
+TwoConvexShapes                         |SRM 553                            |2       |False
+YamanoteLine                            |SRM 553                            |3       |False
+FoxPaintingBalls                        |SRM 552                            |1       |False
+FoxAndFlowerShopDivOne                  |SRM 552                            |2       |False
+HolyNumbers                             |SRM 552                            |3       |False
+ColorfulChocolates                      |SRM 551                            |1       |False
+ColorfulWolves                          |SRM 551                            |2       |False
+SweetFruits                             |SRM 551                            |3       |False
+RotatingBot                             |SRM 550                            |1       |False
+CheckerExpansion                        |SRM 550                            |2       |False
+ConversionMachine                       |SRM 550                            |3       |False
+PointyWizardHats                        |SRM 549                            |1       |False
+MagicalHats                             |SRM 549                            |2       |False
+CosmicBlocks                            |SRM 549                            |3       |False
+KingdomAndTrees                         |SRM 548                            |1       |False
+KingdomAndDice                          |SRM 548                            |2       |False
+KingdomAndCities                        |SRM 548                            |3       |False
+GreedyTravelingSalesman                 |TCO12 Parallel Round 2C            |1       |False
+ThreePoints                             |TCO12 Parallel Round 2C            |2       |False
+FlattenOut                              |TCO12 Parallel Round 2C            |3       |False
+KnightOfIntegerland                     |TCO12 Wildcard Round               |1       |False
+StringEquations                         |TCO12 Wildcard Round               |2       |False
+StringSequences                         |TCO12 Wildcard Round               |3       |False
+BallRemoval                             |TCO12 Semifinal 2                  |1       |False
+IndependentOfOR                         |TCO12 Semifinal 2                  |2       |False
+TheAnimalProgrammingCompetitions        |TCO12 Semifinal 2                  |3       |False
+FloodFill3D                             |TCO12 Semifinal 1                  |1       |False
+StRings                                 |TCO12 Semifinal 1                  |2       |False
+YetAnotherNim                           |TCO12 Semifinal 1                  |3       |False
+CrossingTheRiver                        |TCO12 Round 3B                     |1       |False
+ElevenMultiples                         |TCO12 Round 3B                     |2       |False
+PQHulls                                 |TCO12 Round 3B                     |3       |False
+ChromaticNumber                         |TCO12 Round 3A                     |1       |False
+FoxAndCake                              |TCO12 Round 3A                     |2       |False
+CowsMooing                              |TCO12 Round 3A                     |3       |False
+GreedyTravelingSalesman                 |Round 2C                           |1       |False
+ThreePoints                             |Round 2C                           |2       |False
+FlattenOut                              |Round 2C                           |3       |False
+BlurredDartboard                        |TCO12 Round 2B                     |1       |False
+HeavyBooks                              |TCO12 Round 2B                     |2       |False
+SequenceTransmission                    |TCO12 Round 2B                     |3       |False
+SwitchesAndLamps                        |TCO12 Round 2A                     |1       |False
+CucumberWatering                        |TCO12 Round 2A                     |2       |False
+EvenPaths                               |TCO12 Round 2A                     |3       |False
+PasswordXGuessing                       |TCO12 Round 1C                     |1       |False
+PasswordXGrid                           |TCO12 Round 1C                     |2       |False
+PasswordXPalindrome                     |TCO12 Round 1C                     |3       |False
+FoxAndKgram                             |TCO12 Round 1B                     |1       |False
+FoxAndDoraemon                          |TCO12 Round 1B                     |2       |False
+FoxAndPhotography                       |TCO12 Round 1B                     |3       |False
+EllysJuice                              |TCO12 Round 1A                     |1       |False
+EllysFractions                          |TCO12 Round 1A                     |2       |False
+EllysLights                             |TCO12 Round 1A                     |3       |False
+FoxAndGCDLCM                            |SRM 535                            |1       |False
+FoxAndBusiness                          |SRM 535                            |2       |False
+FoxAndGreed                             |SRM 535                            |3       |False
+MagicCandy                              |SRM 526.5                          |1       |False
+MagicBlizzard                           |SRM 526.5                          |2       |False
+MagicMatchesGame                        |SRM 526.5                          |3       |False
+Pillars                                 |SRM 547                            |1       |False
+RectangularSum                          |SRM 547                            |2       |False
+MaximalTriangle                         |SRM 547                            |3       |False
+KleofasTail                             |SRM 546                            |1       |False
+FavouriteDigits                         |SRM 546                            |2       |False
+FleaCircus                              |SRM 546                            |3       |False
+StrIIRec                                |SRM 545                            |1       |False
+Spacetsk                                |SRM 545                            |2       |False
+SetAndSet                               |SRM 545                            |3       |False
+ElectionFraudDiv1                       |SRM 544                            |1       |False
+FlipGame                                |SRM 544                            |2       |False
+SplittingFoxes                          |SRM 544                            |3       |False
+EllysXors                               |SRM 543                            |1       |False
+EllysRivers                             |SRM 543                            |2       |False
+EllysDeathStars                         |SRM 543                            |3       |False
+PatrolRoute                             |SRM 542                            |1       |False
+StrangeDictionary2                      |SRM 542                            |2       |False
+RabbitWorking                           |SRM 542                            |3       |False
+AntsMeet                                |SRM 541                            |1       |False
+AkariDaisukiDiv1                        |SRM 541                            |2       |False
+XorLife                                 |SRM 541                            |3       |False
+ImportantSequence                       |SRM 540                            |1       |False
+RandomColoring                          |SRM 540                            |2       |False
+ProductQuery                            |SRM 540                            |3       |False
+Over9000Rocks                           |SRM 539                            |1       |False
+SafeReturn                              |SRM 539                            |2       |False
+FoxBomb                                 |SRM 539                            |3       |False
+KingXNewCurrency                        |SRM 537                            |1       |False
+KingXMagicSpells                        |SRM 537                            |2       |False
+PrinceXDominoes                         |SRM 537                            |3       |False
+EvenRoute                               |SRM 538                            |1       |False
+TurtleSpy                               |SRM 538                            |2       |False
+SkewedPerspective                       |SRM 538                            |3       |False
+MergersDivOne                           |SRM 536                            |1       |False
+RollingDiceDivOne                       |SRM 536                            |2       |False
+BinaryPolynomialDivOne                  |SRM 536                            |3       |False
+EllysCheckers                           |SRM 534                            |1       |False
+EllysNumbers                            |SRM 534                            |2       |False
+EllysString                             |SRM 534                            |3       |False
+CasketOfStar                            |SRM 533                            |1       |False
+MagicBoard                              |SRM 533                            |2       |False
+Pikachu                                 |SRM 533                            |3       |False
+DengklekMakingChains                    |SRM 532                            |1       |False
+DengklekBuildingRoads                   |SRM 532                            |2       |False
+DengklekCountingFormations              |SRM 532                            |3       |False
+NoRepeatPlaylist                        |SRM 531                            |1       |False
+MonsterFarm                             |SRM 531                            |2       |False
+BuildingReorganization                  |SRM 531                            |3       |False
+GogoXCake                               |SRM 530                            |1       |False
+GogoXMarisaKirisima                     |SRM 530                            |2       |False
+GogoXBallsAndBins                       |SRM 530                            |3       |False
+KingSort                                |SRM 529                            |1       |False
+MinskyMystery                           |SRM 529                            |2       |False
+BigAndSmallAirports                     |SRM 529                            |3       |False
+PerfectlyFairGame                       |TCO11 Championship Round           |1       |False
+NumberGrid                              |TCO11 Championship Round           |2       |False
+TheCards                                |TCO11 Championship Round           |3       |False
+EventOrder                              |TCO11 Wildcard Round               |1       |False
+DecodeDigits                            |TCO11 Wildcard Round               |2       |False
+PermutationBias                         |TCO11 Wildcard Round               |3       |False
+RGBGame                                 |TCO11 Semifinal 2                  |1       |False
+TheCoins                                |TCO11 Semifinal 2                  |2       |False
+DiscreteConvexHull                      |TCO11 Semifinal 2                  |3       |False
+OrthogonalAnagram                       |TCO11 Semifinal 1                  |1       |False
+GuessTheSubstring                       |TCO11 Semifinal 1                  |2       |False
+MatrixPower                             |TCO11 Semifinal 1                  |3       |False
+SistersErasingLetters                   |TCO11 Round 5                      |1       |False
+PlaylistShuffler                        |TCO11 Round 5                      |2       |False
+RemoveGame                              |TCO11 Round 5                      |3       |False
+ManhattanPatrol                         |TCO11 Round 4                      |1       |False
+YetAnotherBingoProblem                  |TCO11 Round 4                      |2       |False
+RadarSabotage                           |TCO11 Round 4                      |3       |False
+ArtShift                                |TCO11 Round 3                      |1       |False
+PrefixFreeSuperset                      |TCO11 Round 3                      |2       |False
+RowOfColors                             |TCO11 Round 3                      |3       |False
+GuessTheNumberGame                      |TCO11 Round 2                      |1       |False
+STable                                  |TCO11 Round 2                      |2       |False
+CircuitDesign                           |TCO11 Round 2                      |3       |False
+TripleStrings                           |TCO11 Round 1                      |1       |False
+MuddyRoad                               |TCO11 Round 1                      |2       |False
+IPv444                                  |TCO11 Round 1                      |3       |False
+Cut                                     |SRM 528                            |1       |False
+SPartition                              |SRM 528                            |2       |False
+ColorfulCookie                          |SRM 528                            |3       |False
+P8XGraphBuilder                         |SRM 527                            |1       |False
+P8XMatrixRecovery                       |SRM 527                            |2       |False
+P8XCoinChange                           |SRM 527                            |3       |False
+DucksAlignment                          |SRM 526                            |1       |False
+PrimeCompositeGame                      |SRM 526                            |2       |False
+DengklekMessage                         |SRM 526                            |3       |False
+DropCoins                               |SRM 525                            |1       |False
+Rumor                                   |SRM 525                            |2       |False
+MonochromePuzzle                        |SRM 525                            |3       |False
+MagicDiamonds                           |SRM 524                            |1       |False
+LongestSequence                         |SRM 524                            |2       |False
+AxonometricProjection                   |SRM 524                            |3       |False
+CountingSeries                          |SRM 523                            |1       |False
+BricksN                                 |SRM 523                            |2       |False
+AlphabetPaths                           |SRM 523                            |3       |False
+RowAndCoins                             |SRM 522                            |1       |False
+CorrectMultiplication                   |SRM 522                            |2       |False
+PointErasing                            |SRM 522                            |3       |False
+MissingParentheses                      |SRM 521                            |1       |False
+RangeSquaredSubsets                     |SRM 521                            |2       |False
+Chimney                                 |SRM 521                            |3       |False
+SRMCodingPhase                          |SRM 520                            |1       |False
+SRMIntermissionPhase                    |SRM 520                            |2       |False
+SRMChallengePhase                       |SRM 520                            |3       |False
+BinaryCards                             |SRM 519                            |1       |False
+RequiredSubstrings                      |SRM 519                            |2       |False
+VerySmoothDecompositions                |SRM 519                            |3       |False
+LargestSubsequence                      |SRM 518                            |1       |False
+ConvexSequence                          |SRM 518                            |2       |False
+Nim                                     |SRM 518                            |3       |False
+CompositeSmash                          |SRM 517                            |1       |False
+AdjacentSwaps                           |SRM 517                            |2       |False
+ColorfulBoard                           |SRM 517                            |3       |False
+NetworkXOneTimePad                      |SRM 516                            |1       |False
+RowsOrdering                            |SRM 516                            |2       |False
+LexSmallestTour                         |SRM 516                            |3       |False
+RotatedClock                            |SRM 515                            |1       |False
+NewItemShop                             |SRM 515                            |2       |False
+MeetInTheMaze                           |SRM 515                            |3       |False
+MagicalGirlLevelOneDivOne               |SRM 514                            |1       |False
+MagicalGirlLevelTwoDivOne               |SRM 514                            |2       |False
+MagicalGirlLevelThreeDivOne             |SRM 514                            |3       |False
+YetAnotherIncredibleMachine             |SRM 513                            |1       |False
+PerfectMemory                           |SRM 513                            |2       |False
+Reflections                             |SRM 513                            |3       |False
+MysteriousRestaurant                    |SRM 512                            |1       |False
+SubFibonacci                            |SRM 512                            |2       |False
+PickAndDelete                           |SRM 512                            |3       |False
+Zoo                                     |SRM 511                            |1       |False
+FiveHundredEleven                       |SRM 511                            |2       |False
+GameOfLifeDivOne                        |SRM 511                            |3       |False
+AllButOneDivisor                        |TCO11 Qual 3                       |1       |False
+CoinMachinesGame                        |TCO11 Qual 3                       |2       |False
+ComplementMachine2D                     |TCO11 Qual 3                       |3       |False
+BlackWhiteMagic                         |TCO11 Qual 2                       |1       |False
+KindAndCruel                            |TCO11 Qual 2                       |2       |False
+FoxIntegerLevelThree                    |TCO11 Qual 2                       |3       |False
+MinimumLiars                            |TCO11 Qual 1                       |1       |False
+FoxListeningToMusic                     |TCO11 Qual 1                       |2       |False
+SquareSeries                            |TCO11 Qual 1                       |3       |False
+TheNumbersWithLuckyLastDigit            |SRM 504.5                          |1       |False
+TheJackpotDivOne                        |SRM 504.5                          |2       |False
+TheTicketsDivOne                        |SRM 504.5                          |3       |False
+TheAlmostLuckyNumbersDivOne             |SRM 510                            |1       |False
+TheLuckyGameDivOne                      |SRM 510                            |2       |False
+TheLuckyBasesDivOne                     |SRM 510                            |3       |False
+LuckyRemainder                          |SRM 509                            |1       |False
+PalindromizationDiv1                    |SRM 509                            |2       |False
+NumberLabyrinthDiv1                     |SRM 509                            |3       |False
+DivideAndShift                          |SRM 508                            |1       |False
+YetAnotherORProblem                     |SRM 508                            |2       |False
+BarbarianInvasion2                      |SRM 508                            |3       |False
+CubeStickers                            |SRM 507                            |1       |False
+CubePacking                             |SRM 507                            |2       |False
+CubeBuilding                            |SRM 507                            |3       |False
+SlimeXSlimesCity                        |SRM 506                            |1       |False
+SlimeXGrandSlimeAuto                    |SRM 506                            |2       |False
+SlimeXSlimeRancher                      |SRM 506                            |3       |False
+RectangleArea                           |Member SRM 505                     |1       |False
+SetMultiples                            |Member SRM 505                     |2       |False
+PerfectSequences2                       |Member SRM 505                     |3       |False
+MathContest                             |SRM 504                            |1       |False
+AlgridTwo                               |SRM 504                            |2       |False
+Stackol                                 |SRM 504                            |3       |False
+ToastXToast                             |Member SRM 503                     |1       |False
+KingdomXCitiesandVillages               |Member SRM 503                     |2       |False
+KingdomXEmergencyStaircase              |Member SRM 503                     |3       |False
+TheLotteryBothDivs                      |SRM 502                            |1       |False
+TheProgrammingContestDivOne             |SRM 502                            |2       |False
+TheCowDivOne                            |SRM 502                            |3       |False
+FoxPlayingGame                          |Member SRM 501                     |1       |False
+FoxAverageSequence                      |Member SRM 501                     |2       |False
+FoxSearchingRuins                       |Member SRM 501                     |3       |False
+MafiaGame                               |SRM 500                            |1       |False
+FractalPicture                          |SRM 500                            |2       |False
+ProductAndSum                           |SRM 500                            |3       |False
+ColorfulRabbits                         |SRM 499                            |1       |False
+WhiteSpaceEditing                       |SRM 499                            |2       |False
+ImpossibleGame                          |SRM 499                            |3       |False
+FoxSequence                             |SRM 498                            |1       |False
+FoxStones                               |SRM 498                            |2       |False
+FoxJumping                              |SRM 498                            |3       |False
+PermutationSignature                    |SRM 497                            |1       |False
+CssRules                                |SRM 497                            |2       |False
+ModuleSequence                          |SRM 497                            |3       |False
+ColoredStrokes                          |SRM 496                            |1       |False
+OneDimensionalBalls                     |SRM 496                            |2       |False
+YetAnotherHamiltonianPath               |SRM 496                            |3       |False
+ColorfulCards                           |SRM 495                            |1       |False
+CarrotBoxes                             |SRM 495                            |2       |False
+StrangeElevator                         |SRM 495                            |3       |False
+Painting                                |Member SRM 494                     |1       |False
+AlternatingLane                         |Member SRM 494                     |2       |False
+KnightsOut                              |Member SRM 494                     |3       |False
+StonesGame                              |SRM 493                            |1       |False
+AmoebaCode                              |SRM 493                            |2       |False
+AmoebaDivOne                            |SRM 493                            |3       |False
+GirlsAndBoys                            |TCO10 Qual 1                       |1       |False
+RobotSimulation                         |TCO10 Qual 1                       |2       |False
+SequenceMerger                          |TCO10 Qual 1                       |3       |False
+EvaluatingElections                     |TCO10 Final                        |1       |False
+EnclosingSquare                         |TCO10 Final                        |2       |False
+ColorfulJewelry                         |TCO10 Final                        |3       |False
+SequencePermutation                     |TCO10 Wildcard                     |1       |False
+CalculationCards                        |TCO10 Wildcard                     |2       |False
+ShrooksOnTheBoard                       |TCO10 Wildcard                     |3       |False
+YetAnotherRobotSimulation               |TCO10 Semi 2                       |1       |False
+SellingGold                             |TCO10 Semi 2                       |2       |False
+FunnyGames                              |TCO10 Semi 2                       |3       |False
+DistantPoints                           |TCO10 Semi 1                       |1       |False
+AliceInWanderland                       |TCO10 Semi 1                       |2       |False
+SemifinalAssignment                     |TCO10 Semi 1                       |3       |False
+LinearKingdomParkingLot                 |TCO10 Round 5                      |1       |False
+LongJourney                             |TCO10 Round 5                      |2       |False
+OverlappingConcatenation                |TCO10 Round 5                      |3       |False
+BankLottery                             |TCO10 Round 4                      |1       |False
+ProductsOfDigits                        |TCO10 Round 4                      |2       |False
+LineSegments                            |TCO10 Round 4                      |3       |False
+SieveOfEratosthenes                     |TCO10 Round 3                      |1       |False
+TheChroniclesOfAmber                    |TCO10 Round 3                      |2       |False
+Passwords                               |TCO10 Round 3                      |3       |False
+SnowPlow                                |TCO10 Round 2                      |1       |False
+RepresentableNumbers                    |TCO10 Round 2                      |2       |False
+BreakingChocolate                       |TCO10 Round 2                      |3       |False
+EqualizeStrings                         |TCO10 Round 1                      |1       |False
+TwoRegisters                            |TCO10 Round 1                      |2       |False
+VacationTours                           |TCO10 Round 1                      |3       |False
+SumRectangle                            |TCO10 Qual 3                       |1       |False
+WhatsThisChord                          |TCO10 Qual 3                       |2       |False
+CuttingGlass                            |TCO10 Qual 3                       |3       |False
+JingleRingle                            |TCO10 Qual 2                       |1       |False
+FuzzyLife                               |TCO10 Qual 2                       |2       |False
+HandlesSpelling                         |TCO10 Qual 2                       |3       |False
+TheLuckyNumbersLevelOne                 |TCHS10 Championship Round          |1       |False
+TheLuckyNumbersLevelTwo                 |TCHS10 Championship Round          |2       |False
+TheLuckyNumbersLevelThree               |TCHS10 Championship Round          |3       |False
+TimeTravellingGardener                  |SRM 492                            |1       |False
+TimeTravellingTour                      |SRM 492                            |2       |False
+TimeTravellingGogo                      |SRM 492                            |3       |False
+FoxMakingDice                           |Member SRM 491                     |1       |False
+PrefixTree                              |Member SRM 491                     |2       |False
+FoxCardGame                             |Member SRM 491                     |3       |False
+Starport                                |SRM 490                            |1       |False
+QuickT9                                 |SRM 490                            |2       |False
+InfiniteLab                             |SRM 490                            |3       |False
+BallsConverter                          |Member SRM 489                     |1       |False
+DiceRotation                            |Member SRM 489                     |2       |False
+AppleTrees                              |Member SRM 489                     |3       |False
+TheBoredomDivOne                        |SRM 488                            |1       |False
+TheBoringStoreDivOne                    |SRM 488                            |2       |False
+TheBoringGameDivOne                     |SRM 488                            |3       |False
+BunnyComputer                           |SRM 487                            |1       |False
+BunnyExam                               |SRM 487                            |2       |False
+BunnySequence                           |SRM 487                            |3       |False
+OneRegister                             |SRM 486                            |1       |False
+QuickSort                               |SRM 486                            |2       |False
+BatmanAndRobin                          |SRM 486                            |3       |False
+AfraidOfEven                            |Member SRM 485                     |1       |False
+RectangleAvoidingColoring               |Member SRM 485                     |2       |False
+Deposit                                 |Member SRM 485                     |3       |False
+RabbitNumber                            |SRM 484                            |1       |False
+PuyoPuyo                                |SRM 484                            |2       |False
+NumberMagic                             |SRM 484                            |3       |False
+BestApproximationDiv1                   |SRM 483                            |1       |False
+Bribes                                  |SRM 483                            |2       |False
+Sheep                                   |SRM 483                            |3       |False
+LockersDivOne                           |Member SRM 482                     |1       |False
+HanoiGoodAndBad                         |Member SRM 482                     |2       |False
+BalancingAct                            |Member SRM 482                     |3       |False
+ChickenOracle                           |SRM 481                            |1       |False
+BatchSystemRoulette                     |SRM 481                            |2       |False
+TicketPrinters                          |SRM 481                            |3       |False
+TextFrames                              |TCHS10 Round 3                     |1       |False
+FoldingMaze                             |TCHS10 Round 3                     |2       |False
+BuildingWalls                           |TCHS10 Round 3                     |3       |False
+FlatCatsBreeding                        |TCHS10 Round 2                     |1       |False
+DistanceOnCube                          |TCHS10 Round 2                     |2       |False
+CornersDecoding                         |TCHS10 Round 2                     |3       |False
+TheSequencesLevelOne                    |TCHS10 Round 1                     |1       |False
+TheSequencesLevelTwo                    |TCHS10 Round 1                     |2       |False
+TheSequencesLevelThree                  |TCHS10 Round 1                     |3       |False
+CarrotJumping                           |Member SRM 478                     |1       |False
+KiwiJuice                               |Member SRM 478                     |2       |False
+RandomApple                             |Member SRM 478                     |3       |False
+Badgers                                 |SRM 476                            |1       |False
+FriendTour                              |SRM 476                            |2       |False
+SpaceshipEvacuation                     |SRM 476                            |3       |False
+RouteIntersection                       |Member Single Round Match 474      |1       |False
+TreesCount                              |Member Single Round Match 474      |2       |False
+GameWithGraphAndTree                    |Member Single Round Match 474      |3       |False
+T9                                      |Member SRM 468                     |1       |False
+RoadOrFlightHard                        |Member SRM 468                     |2       |False
+MallSecurity                            |Member SRM 468                     |3       |False
+TurretPlacement                         |Member SRM 465                     |1       |False
+GreenWarfare                            |Member SRM 465                     |2       |False
+BouncingDiceGame                        |Member SRM 465                     |3       |False
+ColoringRectangle                       |Member SRM 461                     |1       |False
+BuildingCities                          |Member SRM 461                     |2       |False
+FencingGarden                           |Member SRM 461                     |3       |False
+BouncingBalls                           |Member SRM 458                     |1       |False
+NewCoins                                |Member SRM 458                     |2       |False
+ModuloFourDivisor                       |Member SRM 458                     |3       |False
+DonutsOnTheGridEasy                     |Member SRM 455                     |1       |False
+ConvexHexagons                          |Member SRM 455                     |2       |False
+ActivateTree                            |Member SRM 455                     |3       |False
+MazeMaker                               |SRM 453.5                          |1       |False
+PlanarGraphShop                         |SRM 453.5                          |2       |False
+TheAlmostLuckyNumbers                   |SRM 453.5                          |3       |False
+InternetSecurity                        |SRM 480                            |1       |False
+NetworkSecurity                         |SRM 480                            |2       |False
+StringDecryption                        |SRM 480                            |3       |False
+TheCoffeeTimeDivOne                     |SRM 479                            |1       |False
+TheAirTripDivOne                        |SRM 479                            |2       |False
+TheBoardingDivOne                       |SRM 479                            |3       |False
+Islands                                 |SRM 477                            |1       |False
+PythTriplets                            |SRM 477                            |2       |False
+KingdomTour                             |SRM 477                            |3       |False
+RabbitStepping                          |SRM 475                            |1       |False
+RabbitIncreasing                        |SRM 475                            |2       |False
+RabbitProgramming                       |SRM 475                            |3       |False
+SequenceOfCommands                      |SRM 473                            |1       |False
+RightTriangle                           |SRM 473                            |2       |False
+RooksParty                              |SRM 473                            |3       |False
+PotatoGame                              |SRM 472                            |1       |False
+TwoSidedCards                           |SRM 472                            |2       |False
+ColorfulTiles                           |SRM 472                            |3       |False
+DoorsGame                               |SRM 470                            |1       |False
+DrawingLines                            |SRM 470                            |2       |False
+BuildingRoads                           |SRM 470                            |3       |False
+TheMoviesLevelOneDivOne                 |SRM 469                            |1       |False
+TheMoviesLevelTwoDivOne                 |SRM 469                            |2       |False
+TheMoviesLevelThreeDivOne               |SRM 469                            |3       |False
+LateProfessor                           |SRM 467                            |1       |False
+SuperSum                                |SRM 467                            |2       |False
+NextHomogeneousStrings                  |SRM 467                            |3       |False
+LotteryCheating                         |SRM 466                            |1       |False
+LotteryPyaterochka                      |SRM 466                            |2       |False
+DrawingBlackCrosses                     |SRM 466                            |3       |False
+ColorfulStrings                         |SRM 464                            |1       |False
+ColorfulDecoration                      |SRM 464                            |2       |False
+ColorfulMaze                            |SRM 464                            |3       |False
+RabbitNumbering                         |SRM 463                            |1       |False
+Nisoku                                  |SRM 463                            |2       |False
+RabbitPuzzle                            |SRM 463                            |3       |False
+AgeEncoding                             |SRM 462                            |1       |False
+CandyBox                                |SRM 462                            |2       |False
+WarTransportation                       |SRM 462                            |3       |False
+TheQuestionsAndAnswersDivOne            |SRM 460                            |1       |False
+TheFansAndMeetingsDivOne                |SRM 460                            |2       |False
+TheCitiesAndRoadsDivOne                 |SRM 460                            |3       |False
+Inequalities                            |SRM 459                            |1       |False
+NumberPyramids                          |SRM 459                            |2       |False
+TheContest                              |SRM 459                            |3       |False
+TheTriangleBothDivs                     |SRM 457                            |1       |False
+TheHexagonsDivOne                       |SRM 457                            |2       |False
+TheSquareDivOne                         |SRM 457                            |3       |False
+TwistedMatrix                           |Pilot 2                            |1       |False
+TransportationNetwork                   |Pilot 2                            |2       |False
+PrefixFreeCode                          |Pilot 2                            |3       |False
+ErdosNumber                             |Member Beta                        |1       |False
+CantorDust                              |Member Beta                        |2       |False
+WallClimbing                            |Member Beta                        |3       |False
+SilverDistance                          |SRM 456                            |1       |False
+CutSticks                               |SRM 456                            |2       |False
+FunctionalEquation                      |SRM 456                            |3       |False
+DoubleXor                               |SRM 454                            |1       |False
+NumbersAndMatches                       |SRM 454                            |2       |False
+MegaSum                                 |SRM 454                            |3       |False
+TheBasketballDivOne                     |SRM 453                            |1       |False
+TheTournamentDivOne                     |SRM 453                            |2       |False
+TheSoccerDivOne                         |SRM 453                            |3       |False
+NotTwo                                  |SRM 452                            |1       |False
+IOIString                               |SRM 452                            |2       |False
+IncreasingNumber                        |SRM 452                            |3       |False
+MagicalSource                           |SRM 451                            |1       |False
+BaronsAndCoins                          |SRM 451                            |2       |False
+BrickPuzzle                             |SRM 451                            |3       |False
+OrderedNim                              |SRM 450                            |1       |False
+StrongEconomy                           |SRM 450                            |2       |False
+RowGame                                 |SRM 450                            |3       |False
+MaxTriangle                             |SRM 449                            |1       |False
+HexagonalBattlefield                    |SRM 449                            |2       |False
+StairsColoring                          |SRM 449                            |3       |False
+TheBlackJackDivOne                      |SRM 448                            |1       |False
+TheCardShufflingDivOne                  |SRM 448                            |2       |False
+TheCardLineDivOne                       |SRM 448                            |3       |False
+KnightsTour                             |SRM 447                            |1       |False
+PeopleYouMayKnow                        |SRM 447                            |2       |False
+CellScores                              |SRM 447                            |3       |False
+CubeWalking                             |SRM 446                            |1       |False
+AntOnGraph                              |SRM 446                            |2       |False
+CubePainting                            |SRM 446                            |3       |False
+TheNewHouseDivOne                       |SRM 445                            |1       |False
+TheLockDivOne                           |SRM 445                            |2       |False
+TheEncryptionDivOne                     |SRM 445                            |3       |False
+UnfoldingTriangles                      |SRM 444                            |1       |False
+FourBlocks                              |SRM 444                            |2       |False
+AvoidFour                               |SRM 444                            |3       |False
+UnluckyIntervals                        |SRM 438                            |1       |False
+EndlessStringMachine                    |SRM 438                            |2       |False
+FeudaliasWar                            |SRM 438                            |3       |False
+FractalWheels                           |TCO09 Championship                 |1       |False
+ArrayTransformations                    |TCO09 Championship                 |2       |False
+TheBoredJohn                            |TCO09 Championship                 |3       |False
+PerfectPowers                           |TCO09 Semifinal                    |1       |False
+Automaton                               |TCO09 Semifinal                    |2       |False
+SequenceSum                             |TCO09 Semifinal                    |3       |False
+PawnsAndKings                           |TCO09 Round 5                      |1       |False
+LineOfDice                              |TCO09 Round 5                      |2       |False
+NumberGraph                             |TCO09 Round 5                      |3       |False
+CubeOfDice                              |TCO09 Round 4                      |1       |False
+ChuckContest                            |TCO09 Round 4                      |2       |False
+ShadowArea                              |TCO09 Round 4                      |3       |False
+SaveTheTrees                            |TCO09 Round 3                      |1       |False
+CampaignTrail                           |TCO09 Round 3                      |2       |False
+YetAnotherStonesGame                    |TCO09 Round 3                      |3       |False
+PlaneFractal                            |TCO09 Round 2                      |1       |False
+ExtendableTriangles                     |TCO09 Round 2                      |2       |False
+ConnectingAirports                      |TCO09 Round 2                      |3       |False
+SequenceSums                            |TCO09 Round 1                      |1       |False
+KthProbableElement                      |TCO09 Round 1                      |2       |False
+Unicorn                                 |TCO09 Round 1                      |3       |False
+BidirectionalQueue                      |TCO09 Qual 3                       |1       |False
+PrettyPrintASpiral                      |TCO09 Qual 3                       |2       |False
+MismatchedStrings                       |TCO09 Qual 3                       |3       |False
+RepaintTheChessboard                    |TCO09 Qual 2                       |1       |False
+PageNumbers                             |TCO09 Qual 2                       |2       |False
+DigitalCounter                          |TCO09 Qual 2                       |3       |False
+CirclesCountry                          |SRM 443                            |1       |False
+BinaryFlips                             |SRM 443                            |2       |False
+ShuffledPlaylist                        |SRM 443                            |3       |False
+Underprimes                             |SRM 442                            |1       |False
+BedroomFloor                            |SRM 442                            |2       |False
+NowhereLand                             |SRM 442                            |3       |False
+PerfectPermutation                      |SRM 441                            |1       |False
+StrangeCountry                          |SRM 441                            |2       |False
+PaperAndPaint                           |SRM 441                            |3       |False
+IncredibleMachine                       |SRM 440                            |1       |False
+MazeWandering                           |SRM 440                            |2       |False
+SquareFreeSets                          |SRM 440                            |3       |False
+PouringWater                            |SRM 439                            |1       |False
+PalindromePhrases                       |SRM 439                            |2       |False
+KingdomMap                              |SRM 439                            |3       |False
+SortingWithPermutation                  |TCO09 Qual 1                       |1       |False
+SquareFreeNumbers                       |TCO09 Qual 1                       |2       |False
+PrimePairs                              |TCO09 Qual 1                       |3       |False
+ThePresents                             |TCHS09 Final Round                 |1       |False
+TheLongWay                              |TCHS09 Final Round                 |2       |False
+TheGarland                              |TCHS09 Final Round                 |3       |False
+Parallelograms                          |TCHS09 Round 3                     |1       |False
+AnotherCoinProblem                      |TCHS09 Round 3                     |2       |False
+DiamondMining                           |TCHS09 Round 3                     |3       |False
+CyclicSequence                          |TCHS09 Round 2                     |1       |False
+TournamentWinner                        |TCHS09 Round 2                     |2       |False
+WizardsAppointments                     |TCHS09 Round 2                     |3       |False
+SubwayTrip                              |TCHS09 Round 1                     |1       |False
+BankLoans                               |TCHS09 Round 1                     |2       |False
+MazeReconstruction                      |TCHS09 Round 1                     |3       |False
+TheSwap                                 |SRM 437                            |1       |False
+TheInteger                              |SRM 437                            |2       |False
+TheSum                                  |SRM 437                            |3       |False
+BestView                                |SRM 436                            |1       |False
+DoNotTurn                               |SRM 436                            |2       |False
+CircularShifts                          |SRM 436                            |3       |False
+CellRemoval                             |SRM 435                            |1       |False
+DNADeletion                             |SRM 435                            |2       |False
+CompanyRestructuring                    |SRM 435                            |3       |False
+FindingSquareInTable                    |SRM 434                            |1       |False
+HexatridecimalSum                       |SRM 434                            |2       |False
+IncreasingLists                         |SRM 434                            |3       |False
+MagicWords                              |SRM 433                            |1       |False
+SettingTents                            |SRM 433                            |2       |False
+BarbarianInvasion                       |SRM 433                            |3       |False
+LampsGrid                               |SRM 432                            |1       |False
+GroupedWord                             |SRM 432                            |2       |False
+BuildersCountry                         |SRM 432                            |3       |False
+DigitPrime                              |TC China 08 - Finals               |1       |False
+UnknownNames                            |TC China 08 - Finals               |2       |False
+TreeMaps                                |TC China 08 - Finals               |3       |False
+JohnnysCannon                           |TC China 08 - 1E                   |1       |False
+GoodHours                               |TC China 08 - 1E                   |2       |False
+GameOfEight                             |TC China 08 - 1E                   |3       |False
+BrokenStrings                           |TC China 08 - 1D                   |1       |False
+TransposeMyMusic                        |TC China 08 - 1D                   |2       |False
+FreeGuitars                             |TC China 08 - 1D                   |3       |False
+DirPattern                              |TC China 08 - 1C                   |1       |False
+KingMovement                            |TC China 08 - 1C                   |2       |False
+TooManyBugs                             |TC China 08 - 1C                   |3       |False
+CodeRed                                 |TC China 08 - 1B                   |1       |False
+MusicalChairs                           |TC China 08 - 1B                   |2       |False
+CrimeLab                                |TC China 08 - 1B                   |3       |False
+CampLunches                             |TC China 08 - 1A                   |1       |False
+OrderParser                             |TC China 08 - 1A                   |2       |False
+MislabeledWeights                       |TC China 08 - 1A                   |3       |False
+PaternityScandal                        |TCHS SRM 64                        |1       |False
+ThirtyRocks                             |TCHS SRM 64                        |2       |False
+CommanderIdol                           |TCHS SRM 64                        |3       |False
+SimpleCardGame                          |TCHS SRM 63                        |1       |False
+Telltale                                |TCHS SRM 63                        |2       |False
+SoccerFan                               |TCHS SRM 63                        |3       |False
+TeamSelection                           |TCHS SRM 62                        |1       |False
+NumberFormatter                         |TCHS SRM 62                        |2       |False
+DecreasingNumbers                       |TCHS SRM 62                        |3       |False
+MagicSpell                              |TCHS SRM 61                        |1       |False
+ProductOfDigits                         |TCHS SRM 61                        |2       |False
+ProgrammingRobots                       |TCHS SRM 61                        |3       |False
+WordsPuzzle                             |TCHS SRM 60                        |1       |False
+TurnOnTheLights                         |TCHS SRM 60                        |2       |False
+ColoringRectangles                      |TCHS SRM 60                        |3       |False
+CorruptMages                            |TCHS SRM 59                        |1       |False
+EquilibriumPoints                       |TCHS SRM 59                        |2       |False
+Auxanometer                             |TCHS SRM 59                        |3       |False
+DeckRearranging                         |TCHS SRM 58                        |1       |False
+SolitaireSimulation                     |TCHS SRM 58                        |2       |False
+Digsaw                                  |TCHS SRM 58                        |3       |False
+WordFindPuzzle                          |TCHS SRM 57                        |1       |False
+TwoLotteryGames                         |TCHS SRM 57                        |2       |False
+LostSortingAlgorithm                    |TCHS SRM 57                        |3       |False
+StrangeComparator                       |TCHS SRM 56                        |1       |False
+Playlist                                |TCHS SRM 56                        |2       |False
+BestJob                                 |TCHS SRM 56                        |3       |False
+VeryInterestingMovie                    |TCHS SRM 55                        |1       |False
+MagicStones                             |TCHS SRM 55                        |2       |False
+CollectingPostmarks                     |TCHS SRM 55                        |3       |False
+ProblemSetter                           |TCHS SRM 54                        |1       |False
+SegmentDisplay                          |TCHS SRM 54                        |2       |False
+NumberPartition                         |TCHS SRM 54                        |3       |False
+LaserShooting                           |SRM 431                            |1       |False
+MegaCoolNumbers                         |SRM 431                            |2       |False
+PerfectRectangles                       |SRM 431                            |3       |False
+BitwiseEquations                        |SRM 430                            |1       |False
+TwinTowns                               |SRM 430                            |2       |False
+PickingUp                               |SRM 430                            |3       |False
+SubrectanglesOfTable                    |SRM 429                            |1       |False
+IngredientProportions                   |SRM 429                            |2       |False
+SpecificPolyominoCovering               |SRM 429                            |3       |False
+TheLuckyString                          |SRM 428                            |1       |False
+TheLongPalindrome                       |SRM 428                            |2       |False
+TheStringGame                           |SRM 428                            |3       |False
+DesignCalendar                          |SRM 427                            |1       |False
+LocateTreasure                          |SRM 427                            |2       |False
+PSequence                               |SRM 427                            |3       |False
+ShufflingMachine                        |SRM 426                            |1       |False
+CatchTheMice                            |SRM 426                            |2       |False
+LongStraightRoad                        |SRM 426                            |3       |False
+CrazyBot                                |SRM 425                            |1       |False
+PiecesMover                             |SRM 425                            |2       |False
+RoadsOfKingdom                          |SRM 425                            |3       |False
+ProductOfDigits                         |SRM 424                            |1       |False
+StrengthOrIntellect                     |SRM 424                            |2       |False
+ProductOfPrices                         |SRM 424                            |3       |False
+TheTower                                |SRM 423                            |1       |False
+TheEasyChase                            |SRM 423                            |2       |False
+TheBeautifulBoard                       |SRM 423                            |3       |False
+PrimeSoccer                             |SRM 422                            |1       |False
+CavePassage                             |SRM 422                            |2       |False
+WorkersOnPlane                          |SRM 422                            |3       |False
+EquilibriumPoints                       |SRM 421                            |1       |False
+CakesEqualization                       |SRM 421                            |2       |False
+TeamManagement                          |SRM 421                            |3       |False
+SolitaireSimulation                     |SRM 420                            |1       |False
+RedIsGood                               |SRM 420                            |2       |False
+ChangeOMatic                            |SRM 420                            |3       |False
+Undo                                    |SRM 419                            |1       |False
+NimForK                                 |SRM 419                            |2       |False
+CactusAutomorphisms                     |SRM 419                            |3       |False
+TwoLotteryGames                         |SRM 418                            |1       |False
+StampsCollection                        |SRM 418                            |2       |False
+Barracks                                |SRM 418                            |3       |False
+TemplateMatching                        |SRM 417                            |1       |False
+CubeNets                                |SRM 417                            |2       |False
+WalkingDistance                         |SRM 417                            |3       |False
+NextNumber                              |SRM 416                            |1       |False
+CustomDice                              |SRM 416                            |2       |False
+RussianCheckers                         |SRM 416                            |3       |False
+ShipLoading                             |SRM 415                            |1       |False
+CollectingPostmarks                     |SRM 415                            |2       |False
+AlienDictionary                         |SRM 415                            |3       |False
+Embassy                                 |SRM 414                            |1       |False
+StringInterspersal                      |SRM 414                            |2       |False
+KPlanetaryAlignment                     |SRM 414                            |3       |False
+ArithmeticProgression                   |SRM 413                            |1       |False
+InfiniteSequence2                       |SRM 413                            |2       |False
+TreeCount                               |SRM 413                            |3       |False
+ForbiddenStrings                        |SRM 412                            |1       |False
+StringsAndTabs                          |SRM 412                            |2       |False
+ErrantKnight                            |SRM 412                            |3       |False
+TextBoard                               |College Tour HUST                  |1       |False
+EvilRobot                               |College Tour HUST                  |2       |False
+RollingLetters                          |College Tour HUST                  |3       |False
+TheLargestLuckyNumber                   |College Tour Fudan                 |1       |False
+TheLuckyNumbers                         |College Tour Fudan                 |2       |False
+TheSumOfLuckyNumbers                    |College Tour Fudan                 |3       |False
+DNAConstruction                         |TCHS SRM 53                        |1       |False
+AnomalousCancellation                   |TCHS SRM 53                        |2       |False
+LockedDoors                             |TCHS SRM 53                        |3       |False
+TournamentJudging                       |TCHS SRM 52                        |1       |False
+RRSchedule                              |TCHS SRM 52                        |2       |False
+MarblesInABag                           |TCHS SRM 52                        |3       |False
+MissingDigits                           |TCHS SRM 51                        |1       |False
+AuctionHouse                            |TCHS SRM 51                        |2       |False
+CheapestRoute                           |TCHS SRM 51                        |3       |False
+FunnyBirds                              |TCHS SRM 50                        |1       |False
+SquareCovering                          |TCHS SRM 50                        |2       |False
+PositiveArray                           |TCHS SRM 50                        |3       |False
+TextBoard                               |College Tour West China            |1       |False
+EvilRobot                               |College Tour West China            |2       |False
+RollingLetters                          |College Tour West China            |3       |False
+ConductorWalk                           |College Tour Guangdong             |1       |False
+CharSwaps                               |College Tour Guangdong             |2       |False
+RoadReform                              |College Tour Guangdong             |3       |False
+WaterEqualizer                          |College Tour Beijing               |1       |False
+SubgridsCounter                         |College Tour Beijing               |2       |False
+MilitaryBase                            |College Tour Beijing               |3       |False
+ConductorWalk                           |East China Round 2                 |1       |False
+CharSwaps                               |East China Round 2                 |2       |False
+RoadReform                              |East China Round 2                 |3       |False
+DividingIntoTeams                       |East China Round 1                 |1       |False
+TimeToSay                               |East China Round 1                 |2       |False
+BestResult                              |East China Round 1                 |3       |False
+CircularCells                           |Round 1                            |1       |False
+DiamondGame                             |Round 1                            |2       |False
+RepresentNumber                         |Round 1                            |3       |False
+SentenceDecomposition                   |SRM 411                            |1       |False
+HoleCakeCuts                            |SRM 411                            |2       |False
+MinimumTours                            |SRM 411                            |3       |False
+AddElectricalWires                      |SRM 410                            |1       |False
+ContiguousCache                         |SRM 410                            |2       |False
+WifiPlanet                              |SRM 410                            |3       |False
+OrderedSuperString                      |SRM 409                            |1       |False
+MagicalSpheres                          |SRM 409                            |2       |False
+GridColoring                            |SRM 409                            |3       |False
+OlympicCandles                          |SRM 408                            |1       |False
+CandyGame                               |SRM 408                            |2       |False
+TournamentSeeding                       |SRM 408                            |3       |False
+CorporationSalary                       |SRM 407                            |1       |False
+PointsGame                              |SRM 407                            |2       |False
+TransformMatrix                         |SRM 407                            |3       |False
+SymmetricPie                            |SRM 406                            |1       |False
+FoldThePaper                            |SRM 406                            |2       |False
+ShortPaths                              |SRM 406                            |3       |False
+RelativePath                            |SRM 405                            |1       |False
+AllCycleLengths                         |SRM 405                            |2       |False
+ReasonableOdds                          |SRM 405                            |3       |False
+RevealTriangle                          |SRM 404                            |1       |False
+KSubstring                              |SRM 404                            |2       |False
+SoftwareCompanies                       |SRM 404                            |3       |False
+TheLuckyNumbers                         |SRM 403                            |1       |False
+TheLuckySequence                        |SRM 403                            |2       |False
+TheLuckySum                             |SRM 403                            |3       |False
+RandomSort                              |SRM 402                            |1       |False
+LargestGap                              |SRM 402                            |2       |False
+IncreasingSequence                      |SRM 402                            |3       |False
+FIELDDiagrams                           |SRM 401                            |1       |False
+ParticleCollision                       |SRM 401                            |2       |False
+NCool                                   |SRM 401                            |3       |False
+StrongPrimePower                        |SRM 400                            |1       |False
+ReversalChain                           |SRM 400                            |2       |False
+CollectingBonuses                       |SRM 400                            |3       |False
+AvoidingProduct                         |SRM 399                            |1       |False
+BinarySum                               |SRM 399                            |2       |False
+DancingParty                            |SRM 399                            |3       |False
+CountExpressions                        |SRM 398                            |1       |False
+CountPaths                              |SRM 398                            |2       |False
+MyFriends                               |SRM 398                            |3       |False
+SortingGame                             |SRM 397                            |1       |False
+SumOfPowers                             |SRM 397                            |2       |False
+HouseProtection                         |SRM 397                            |3       |False
+DNAString                               |SRM 396                            |1       |False
+FixImage                                |SRM 396                            |2       |False
+MoreNim                                 |SRM 396                            |3       |False
+SquareConstruction                      |TCO08 Qual 3                       |1       |False
+CableDonation                           |TCO08 Qual 3                       |2       |False
+EvenOnes                                |TCO08 Qual 3                       |3       |False
+LangfordSequence                        |TCHS08 Finals                      |1       |False
+ReversingPrefixes                       |TCHS08 Finals                      |2       |False
+PredictionCardGame                      |TCHS08 Finals                      |3       |False
+CoolFunction                            |TCO08 Championship                 |1       |False
+CraneSort                               |TCO08 Championship                 |2       |False
+SnakesOnAPlane                          |TCO08 Championship                 |3       |False
+OptimalPlay                             |TCO08 Wildcard                     |1       |False
+BSTConstruction                         |TCO08 Wildcard                     |2       |False
+AlmostConvexPolygons                    |TCO08 Wildcard                     |3       |False
+WhackAMole                              |TCO08 Semifinal 3                  |1       |False
+IncompatibleMice                        |TCO08 Semifinal 3                  |2       |False
+SequentialT                             |TCO08 Semifinal 3                  |3       |False
+FairDiceGame                            |TCO08 Semifinal 2                  |1       |False
+IsoscelesTriangles                      |TCO08 Semifinal 2                  |2       |False
+ColorfulBalls                           |TCO08 Semifinal 2                  |3       |False
+DriveOrder                              |TCO08 Semifinal 1                  |1       |False
+MultiplayerBattleships                  |TCO08 Semifinal 1                  |2       |False
+BinaryMatrix                            |TCO08 Semifinal 1                  |3       |False
+MagicLabeling                           |TCO08 Round 4                      |1       |False
+OlympicGames                            |TCO08 Round 4                      |2       |False
+Collect                                 |TCO08 Round 4                      |3       |False
+ZenoDivision                            |TCO08 Round 3                      |1       |False
+BattleDice                              |TCO08 Round 3                      |2       |False
+SuperWatch                              |TCO08 Round 3                      |3       |False
+OneWayStreets                           |TCO08 Round 2                      |1       |False
+CreatureTraining                        |TCO08 Round 2                      |2       |False
+PreciousStones                          |TCO08 Round 2                      |3       |False
+DiscountCombination                     |TCO08 Round 1                      |1       |False
+Chomp                                   |TCO08 Round 1                      |2       |False
+BoxFilling                              |TCO08 Round 1                      |3       |False
+BusAwaiting                             |TCO08 Qual 2                       |1       |False
+PhoneNumbers                            |TCO08 Qual 2                       |2       |False
+BlackWhiteRectangles                    |TCO08 Qual 2                       |3       |False
+MonstersAndBunnies                      |TCO08 Qual 1                       |1       |False
+PrimeSums                               |TCO08 Qual 1                       |2       |False
+MagicFingerprint                        |TCO08 Qual 1                       |3       |False
+StudentEnrollment                       |TCHS08 Round 1                     |1       |False
+TaliluluCoffee                          |TCHS08 Round 1                     |2       |False
+DecorationDay                           |TCHS08 Round 1                     |3       |False
+QueryFilter                             |TCHS08 Round 2                     |1       |False
+TriangularSubsequence                   |TCHS08 Round 2                     |2       |False
+UnfixedArrangements                     |TCHS08 Round 2                     |3       |False
+SimilarWords                            |TCHS08 Round 3                     |1       |False
+OneTwoThree                             |TCHS08 Round 3                     |2       |False
+RectanglesArrangement                   |TCHS08 Round 3                     |3       |False
+RussianSpeedLimits                      |College Tour SRM 385               |1       |False
+UnderscoreJustification                 |College Tour SRM 385               |2       |False
+SummingArithmeticProgressions           |College Tour SRM 385               |3       |False
+Prank                                   |College Tour SRM 384               |1       |False
+Library                                 |College Tour SRM 384               |2       |False
+PowerGame                               |College Tour SRM 384               |3       |False
+StreetWalking                           |SRM 395                            |1       |False
+Skyscrapers                             |SRM 395                            |2       |False
+PubTrivia                               |SRM 395                            |3       |False
+RoughStrings                            |SRM 394                            |1       |False
+CentersOfSymmetry                       |SRM 394                            |2       |False
+PseudoRandomKingdom                     |SRM 394                            |3       |False
+InstantRunoffVoting                     |SRM 393                            |1       |False
+NSegmentDisplay                         |SRM 393                            |2       |False
+AirlineInternet                         |SRM 393                            |3       |False
+TwoStringMasks                          |SRM 392                            |1       |False
+RoundAboutCircle                        |SRM 392                            |2       |False
+EquiDigitNumbers                        |SRM 392                            |3       |False
+IsomorphicWords                         |SRM 391                            |1       |False
+KeysInBoxes                             |SRM 391                            |2       |False
+Transformation                          |SRM 391                            |3       |False
+ConcatenateNumber                       |SRM 390                            |1       |False
+PaintingBoards                          |SRM 390                            |2       |False
+BuildCircuit                            |SRM 390                            |3       |False
+ApproximateDivision                     |SRM 389                            |1       |False
+GuitarChords                            |SRM 389                            |2       |False
+LittleSquares                           |SRM 389                            |3       |False
+SmoothNumbers                           |SRM 388                            |1       |False
+InformFriends                           |SRM 388                            |2       |False
+TelephoneNumbers                        |SRM 388                            |3       |False
+MarblesRegroupingEasy                   |SRM 387                            |1       |False
+IntervalSubsets                         |SRM 387                            |2       |False
+StrangeArray                            |SRM 387                            |3       |False
+CandidateKeys                           |SRM 386                            |1       |False
+PolygonCover                            |SRM 386                            |2       |False
+EscapeArtist                            |SRM 386                            |3       |False
+FloorLayout                             |College Tour SRM 383               |1       |False
+Planks                                  |College Tour SRM 383               |2       |False
+HillWalker                              |College Tour SRM 383               |3       |False
+ContiguousSubsequences                  |College Tour SRM 382               |1       |False
+CollectingRiders                        |College Tour SRM 382               |2       |False
+CharmingTicketsEasy                     |College Tour SRM 382               |3       |False
+TheBestName                             |College Tour SRM 381               |1       |False
+TheDiceGame                             |College Tour SRM 381               |2       |False
+TheNumbersLord                          |College Tour SRM 381               |3       |False
+LuckyTicketSubstring                    |College Tour SRM 380               |1       |False
+LameKnight                              |College Tour SRM 380               |2       |False
+CompilingDecksWithJokers                |College Tour SRM 380               |3       |False
+DownloadingFiles                        |College Tour SRM 379               |1       |False
+SellingProducts                         |College Tour SRM 379               |2       |False
+TVGameWinnings                          |College Tour SRM 379               |3       |False
+TwoRotationCypher                       |College Tour SRM 378               |1       |False
+TrueStatements                          |College Tour SRM 378               |2       |False
+HanoiState                              |College Tour SRM 378               |3       |False
+PunctuationCleaner                      |College Tour SRM 376               |1       |False
+Trainyard                               |College Tour SRM 376               |2       |False
+JollyJumpers                            |College Tour SRM 376               |3       |False
+MixtureDensity                          |College Tour SRM 375               |1       |False
+DukeOnChessBoard                        |College Tour SRM 375               |2       |False
+DivisibleByDigits                       |College Tour SRM 375               |3       |False
+HockeyFault                             |College Tour SRM 374               |1       |False
+SyllableSorting                         |College Tour SRM 374               |2       |False
+PlayerExtraction                        |College Tour SRM 374               |3       |False
+RandomRide                              |TCCC07 Finals                      |1       |False
+Factorer                                |TCCC07 Finals                      |2       |False
+FactoryEmulation                        |TCCC07 Finals                      |3       |False
+RandomWalks                             |TCCC07 Wildcard                    |1       |False
+Overhang                                |TCCC07 Wildcard                    |2       |False
+Polygon                                 |TCCC07 Wildcard                    |3       |False
+TheEquation                             |College Tour SRM 373               |1       |False
+StringFragmentation                     |College Tour SRM 373               |2       |False
+RectangleCrossings                      |College Tour SRM 373               |3       |False
+DietPlan                                |College Tour SRM 372               |1       |False
+RoadConstruction                        |College Tour SRM 372               |2       |False
+RainyDay                                |College Tour SRM 372               |3       |False
+CondorcetVoting                         |College Tour SRM 371               |1       |False
+SpiralRoute                             |College Tour SRM 371               |2       |False
+FloodRelief                             |College Tour SRM 371               |3       |False
+Police                                  |TCCC07 Semi 3                      |1       |False
+OddGraph                                |TCCC07 Semi 3                      |2       |False
+BinaryPowerBishop                       |TCCC07 Semi 3                      |3       |False
+SongsList                               |TCCC07 Semi 2                      |1       |False
+FlashFlood                              |TCCC07 Semi 2                      |2       |False
+ReliefMeasuring                         |TCCC07 Semi 2                      |3       |False
+CardsAndSlots                           |TCCC07 Semi 1                      |1       |False
+UnfriendlyMultiPermutation              |TCCC07 Semi 1                      |2       |False
+AncientLanguage                         |TCCC07 Semi 1                      |3       |False
+Containers                              |College Tour SRM 370               |1       |False
+DrawingMarbles                          |College Tour SRM 370               |2       |False
+JohnnysPhone                            |College Tour SRM 370               |3       |False
+Caketown                                |College Tour Sichuan               |1       |False
+ChangeReport                            |College Tour Sichuan               |2       |False
+GreedyGlob                              |College Tour Sichuan               |3       |False
+ChainOfRectangles                       |College Tour SRM 369               |1       |False
+BeautifulString                         |College Tour SRM 369               |2       |False
+IsoscelesTriangulations                 |College Tour SRM 369               |3       |False
+PirateTreasure                          |College Tour SRM 368               |1       |False
+TurningLightOn                          |College Tour SRM 368               |2       |False
+JumpingBoard                            |College Tour SRM 368               |3       |False
+WhiteCells                              |College Tour SRM 367               |1       |False
+ObtainingDigitK                         |College Tour SRM 367               |2       |False
+ProgrammingDevice                       |College Tour SRM 367               |3       |False
+JumpingBoard                            |SRM 368                            |1       |False
+PolylineUnion                           |SRM 368                            |2       |False
+BinaryCodes                             |SRM 368                            |3       |False
+FrabonacciTree                          |TCCC07 Sponsor 4                   |1       |False
+SausagesProductionScheduler             |TCCC07 Sponsor 4                   |2       |False
+CommonSubsequence                       |TCCC07 Sponsor 4                   |3       |False
+SerialNumbers                           |College Tour SRM 366               |1       |False
+ChangingSounds                          |College Tour SRM 366               |2       |False
+PickGuitars                             |College Tour SRM 366               |3       |False
+FrabonacciTree                          |TCCC07 Round 4                     |1       |False
+SausagesProductionScheduler             |TCCC07 Round 4                     |2       |False
+CommonSubsequence                       |TCCC07 Round 4                     |3       |False
+LazyCat                                 |TCCC07 Sponsor 3                   |1       |False
+TristripeBacteria                       |TCCC07 Sponsor 3                   |2       |False
+SimilarPairs                            |TCCC07 Sponsor 3                   |3       |False
+TournamentsAmbiguityNumber              |College Tour SRM 365               |1       |False
+PointsOnCircle                          |College Tour SRM 365               |2       |False
+HittingPerfectTarget                    |College Tour SRM 365               |3       |False
+PowerOfInteger                          |TCCC07 Sponsor 2                   |1       |False
+RLESum                                  |TCCC07 Sponsor 2                   |2       |False
+JobPlanner                              |TCCC07 Sponsor 2                   |3       |False
+LazyCat                                 |TCCC07 Round 3                     |1       |False
+TristripeBacteria                       |TCCC07 Round 3                     |2       |False
+SimilarPairs                            |TCCC07 Round 3                     |3       |False
+DifDif                                  |TCCC07 Sponsor 1                   |1       |False
+Prefixes                                |TCCC07 Sponsor 1                   |2       |False
+CircleCount                             |TCCC07 Sponsor 1                   |3       |False
+DifDif                                  |TCCC07 Round 1C                    |1       |False
+Prefixes                                |TCCC07 Round 1C                    |2       |False
+CircleCount                             |TCCC07 Round 1C                    |3       |False
+LetterInterchange                       |TCCC07 Round 1A                    |1       |False
+LongestSubanagramChain                  |TCCC07 Round 1A                    |2       |False
+KSlopePermutation                       |TCCC07 Round 1A                    |3       |False
+Popularity                              |TCCC07 Round 1B                    |1       |False
+MutateTree                              |TCCC07 Round 1B                    |2       |False
+MarbleTop                               |TCCC07 Round 1B                    |3       |False
+PowerOfInteger                          |TCCC07 Round 2                     |1       |False
+RLESum                                  |TCCC07 Round 2                     |2       |False
+JobPlanner                              |TCCC07 Round 2                     |3       |False
+ComplementaryDNAChains                  |TCCC07 Qual 3                      |1       |False
+ColorApproximation                      |TCCC07 Qual 3                      |2       |False
+VectorMatching                          |TCCC07 Qual 3                      |3       |False
+MovieRating                             |TCCC07 Qual 1                      |1       |False
+OptimalGroupMovement                    |TCCC07 Qual 1                      |2       |False
+ConstructionFromMatches                 |TCCC07 Qual 1                      |3       |False
+AlmostPerfectNumber                     |TCCC07 Qual 2                      |1       |False
+EntertainingSegment                     |TCCC07 Qual 2                      |2       |False
+BlockCounter                            |TCCC07 Qual 2                      |3       |False
+DayTrader                               |TCO07 Finals                       |1       |False
+Rafting                                 |TCO07 Finals                       |2       |False
+RepeatingFreeStrings                    |TCO07 Finals                       |3       |False
+CauchyProduct                           |TCO07 Wildcard                     |1       |False
+PaperThickness                          |TCO07 Wildcard                     |2       |False
+SkipList                                |TCO07 Wildcard                     |3       |False
+BusyTime                                |TCO07 Semi 3                       |1       |False
+ToolingUp                               |TCO07 Semi 3                       |2       |False
+Inc                                     |TCO07 Semi 3                       |3       |False
+Curvy                                   |TCO07 Semi 2                       |1       |False
+BigWheels                               |TCO07 Semi 2                       |2       |False
+NextBetter                              |TCO07 Semi 2                       |3       |False
+CostMatrix                              |TCO07 Semi 1                       |1       |False
+DifferentPokerHands                     |TCO07 Semi 1                       |2       |False
+WorstCaseQuicksort                      |TCO07 Semi 1                       |3       |False
+UnderscoreJustification                 |SRM 385                            |1       |False
+TurningMaze                             |SRM 385                            |2       |False
+InfiniteAddition                        |SRM 385                            |3       |False
+DepositProfit                           |TCHS SRM 49                        |1       |False
+TransformingArray                       |TCHS SRM 49                        |2       |False
+TowersAttack                            |TCHS SRM 49                        |3       |False
+Library                                 |SRM 384                            |1       |False
+SchoolTrip                              |SRM 384                            |2       |False
+ChessTraining                           |SRM 384                            |3       |False
+SendingCards                            |TCHS SRM 48                        |1       |False
+CommonFactors                           |TCHS SRM 48                        |2       |False
+ThreeWatchtowers                        |TCHS SRM 48                        |3       |False
+Planks                                  |SRM 383                            |1       |False
+FloorBoards                             |SRM 383                            |2       |False
+PyramidPuzzle                           |SRM 383                            |3       |False
+CollectingRiders                        |SRM 382                            |1       |False
+PointsOnACircle                         |SRM 382                            |2       |False
+CharmingTickets                         |SRM 382                            |3       |False
+TheDiceGame                             |SRM 381                            |1       |False
+TheHomework                             |SRM 381                            |2       |False
+TheSquares                              |SRM 381                            |3       |False
+CardsShuffle                            |TCHS SRM 47                        |1       |False
+GraphClique                             |TCHS SRM 47                        |2       |False
+RandomShuffle                           |TCHS SRM 47                        |3       |False
+LameKnight                              |SRM 380                            |1       |False
+CompilingDecksWithJokers                |SRM 380                            |2       |False
+NestedDiamonds                          |SRM 380                            |3       |False
+Pawns                                   |TCHS SRM 46                        |1       |False
+FoodCollecting                          |TCHS SRM 46                        |2       |False
+KingsTour                               |TCHS SRM 46                        |3       |False
+SellingProducts                         |SRM 379                            |1       |False
+FillBox                                 |SRM 379                            |2       |False
+TVGame                                  |SRM 379                            |3       |False
+SolvingEquation                         |TCHS SRM 45                        |1       |False
+DecreasingNumber                        |TCHS SRM 45                        |2       |False
+PaperUnfolding                          |TCHS SRM 45                        |3       |False
+TrueStatements                          |SRM 378                            |1       |False
+SolvePolynomial                         |SRM 378                            |2       |False
+TwistyPassages                          |SRM 378                            |3       |False
+Trainyard                               |SRM 376                            |1       |False
+MarbleMachine                           |SRM 376                            |2       |False
+Unjumpers                               |SRM 376                            |3       |False
+YoungBrother                            |TCHS SRM 44                        |1       |False
+DriveCar                                |TCHS SRM 44                        |2       |False
+DogField                                |TCHS SRM 44                        |3       |False
+DivisibleByDigits                       |SRM 375                            |1       |False
+DateFieldCorrection                     |SRM 375                            |2       |False
+DukeOnLargeChessBoard                   |SRM 375                            |3       |False
+SyllableSorting                         |SRM 374                            |1       |False
+PlayerExtraction                        |SRM 374                            |2       |False
+CommercialPlanner                       |SRM 374                            |3       |False
+TransformArray                          |TCHS SRM 43                        |1       |False
+TraditionalMarriage                     |TCHS SRM 43                        |2       |False
+ArithmeticalMean                        |TCHS SRM 43                        |3       |False
+StringFragmentation                     |SRM 373                            |1       |False
+RoadCrossing                            |SRM 373                            |2       |False
+SpiralConstruction                      |SRM 373                            |3       |False
+FancyGUI                                |TCHS SRM 42                        |1       |False
+TwoWords                                |TCHS SRM 42                        |2       |False
+MonkeyTreeDistance                      |TCHS SRM 42                        |3       |False
+RoadConstruction                        |SRM 372                            |1       |False
+RoundOfEleven                           |SRM 372                            |2       |False
+RadarGuns                               |SRM 372                            |3       |False
+MajorityElement                         |TCHS SRM 41                        |1       |False
+NotationLength                          |TCHS SRM 41                        |2       |False
+TrianglesBoard                          |TCHS SRM 41                        |3       |False
+SpiralRoute                             |SRM 371                            |1       |False
+ChessMatchup                            |SRM 371                            |2       |False
+RaceOrdering                            |SRM 371                            |3       |False
+DrawingMarbles                          |SRM 370                            |1       |False
+ConnectTheCities                        |SRM 370                            |2       |False
+NumberOfDivisors                        |SRM 370                            |3       |False
+BeautifulString                         |SRM 369                            |1       |False
+AbsSequence                             |SRM 369                            |2       |False
+MountainMap                             |SRM 369                            |3       |False
+Secretary                               |TCHS SRM 40                        |1       |False
+LibraryWorker                           |TCHS SRM 40                        |2       |False
+Shapes                                  |TCHS SRM 40                        |3       |False
+ObtainingDigitK                         |SRM 367                            |1       |False
+DeviceProgramming                       |SRM 367                            |2       |False
+WSNParentsAssignment                    |SRM 367                            |3       |False
+WebBrowser                              |TCHS SRM 39                        |1       |False
+LinearCity                              |TCHS SRM 39                        |2       |False
+RangeFixer                              |TCHS SRM 39                        |3       |False
+ChangingSounds                          |SRM 366                            |1       |False
+GuitarConcert                           |SRM 366                            |2       |False
+LateForConcert                          |SRM 366                            |3       |False
+PointsOnCircle                          |SRM 365                            |1       |False
+ArithmeticProgressions                  |SRM 365                            |2       |False
+RelabelingOfGraph                       |SRM 365                            |3       |False
+JoshString                              |TCHS SRM 38                        |1       |False
+JoshSum                                 |TCHS SRM 38                        |2       |False
+GrandpaField                            |TCHS SRM 38                        |3       |False
+Paintball                               |SRM 364                            |1       |False
+PowerPlants                             |SRM 364                            |2       |False
+YankeeSwap                              |SRM 364                            |3       |False
+HandsShaking                            |SRM 363                            |1       |False
+MirrorNumber                            |SRM 363                            |2       |False
+PackageDelivery                         |SRM 363                            |3       |False
+BestHotel                               |TCHS SRM 37                        |1       |False
+BooksNumbering                          |TCHS SRM 37                        |2       |False
+SumoTournament                          |TCHS SRM 37                        |3       |False
+MaximizeSquares                         |SRM 362                            |1       |False
+PartialSeries                           |SRM 362                            |2       |False
+CoolRectangles                          |SRM 362                            |3       |False
+VegetableField                          |TCHS SRM 36                        |1       |False
+CrazySequence                           |TCHS SRM 36                        |2       |False
+CoolNumber                              |TCHS SRM 36                        |3       |False
+WhiteHats                               |SRM 361                            |1       |False
+ReverseDistance                         |SRM 361                            |2       |False
+WeighingScale                           |SRM 361                            |3       |False
+SumOfSelectedCells                      |SRM 360                            |1       |False
+PrinceOfPersia                          |SRM 360                            |2       |False
+ConvexArray                             |SRM 360                            |3       |False
+NamesList                               |TCHS SRM 35                        |1       |False
+PaperGame                               |TCHS SRM 35                        |2       |False
+PaperScraps                             |TCHS SRM 35                        |3       |False
+DriveFailures                           |SRM 359                            |1       |False
+CropCircles                             |SRM 359                            |2       |False
+BubbleSortIterations                    |SRM 359                            |3       |False
+QuoteContest                            |TCHS SRM 34                        |1       |False
+NumbersGame                             |TCHS SRM 34                        |2       |False
+ExploringHoneycombs                     |TCHS SRM 34                        |3       |False
+BrokenButtons                           |SRM 358                            |1       |False
+BalanceScale                            |SRM 358                            |2       |False
+SharksDinner                            |SRM 358                            |3       |False
+CastleGuards                            |TCHS SRM 33                        |1       |False
+DogAndRabbit                            |TCHS SRM 33                        |2       |False
+AlmostPrime                             |TCHS SRM 33                        |3       |False
+Hotel                                   |SRM 357                            |1       |False
+WebsiteRank                             |SRM 357                            |2       |False
+ChipArea                                |SRM 357                            |3       |False
+AverageProblem                          |SRM 356                            |1       |False
+MarriageProblemRevised                  |SRM 356                            |2       |False
+EscapeTheJail                           |SRM 356                            |3       |False
+SimpleTextProcessor                     |TCHS07 Finals                      |1       |False
+ZeroesAndOnesGrid                       |TCHS07 Finals                      |2       |False
+RoadsReorganization                     |TCHS07 Finals                      |3       |False
+SortInsideNumber                        |TCHS07 Semifinal                   |1       |False
+SoccerCommentator                       |TCHS07 Semifinal                   |2       |False
+KnapsackProblem                         |TCHS07 Semifinal                   |3       |False
+PolishNotation                          |TCO07 Round 4                      |1       |False
+SortingInIterations                     |TCO07 Round 4                      |2       |False
+FourSubstrings                          |TCO07 Round 4                      |3       |False
+Defects                                 |TCO07 Sponsor 2                    |1       |False
+WordSplit                               |TCO07 Sponsor 2                    |2       |False
+Neaten                                  |TCO07 Sponsor 2                    |3       |False
+SortMaterials                           |TCO07 Round 3                      |1       |False
+Candles                                 |TCO07 Round 3                      |2       |False
+VotingBloc                              |TCO07 Round 3                      |3       |False
+AntiPalindrome                          |TCO07 Sponsor 1                    |1       |False
+NavalBattle                             |TCO07 Sponsor 1                    |2       |False
+AmbiguousWatch                          |TCO07 Sponsor 1                    |3       |False
+Defects                                 |TCO07 Round 2                      |1       |False
+WordSplit                               |TCO07 Round 2                      |2       |False
+Neaten                                  |TCO07 Round 2                      |3       |False
+PacketRepack                            |TCO07 Sponsor Qual                 |1       |False
+MemorizingPi                            |TCO07 Sponsor Qual                 |2       |False
+BalancingGame                           |TCO07 Sponsor Qual                 |3       |False
+SquareCypher                            |TCO07 Round 1C                     |1       |False
+RaceTrack                               |TCO07 Round 1C                     |2       |False
+MedievalCity                            |TCO07 Round 1C                     |3       |False
+AntiPalindrome                          |TCO07 Round 1B                     |1       |False
+NavalBattle                             |TCO07 Round 1B                     |2       |False
+AmbiguousWatch                          |TCO07 Round 1B                     |3       |False
+Turnpike                                |TCO07 Round 1A                     |1       |False
+TableLabel                              |TCO07 Round 1A                     |2       |False
+Destruction                             |TCO07 Round 1A                     |3       |False
+PacketRepack                            |TCO07 Qual 3                       |1       |False
+MemorizingPi                            |TCO07 Qual 3                       |2       |False
+BalancingGame                           |TCO07 Qual 3                       |3       |False
+BuildATeam                              |TCO07 Qual 2                       |1       |False
+BasketballStandings                     |TCO07 Qual 2                       |2       |False
+BuildTheBestTeam                        |TCO07 Qual 2                       |3       |False
+Snaky                                   |TCO07 Qual 1                       |1       |False
+Bigital                                 |TCO07 Qual 1                       |2       |False
+Alarmed                                 |TCO07 Qual 1                       |3       |False
+Kings                                   |TCHS07 Alpha 3                     |1       |False
+DividingRectangle                       |TCHS07 Alpha 3                     |2       |False
+GamesSchedule                           |TCHS07 Alpha 3                     |3       |False
+AdvertisingAgency                       |Delta Round 3                      |1       |False
+DigramAnalysis                          |Delta Round 3                      |2       |False
+MoreBlack                               |Delta Round 3                      |3       |False
+BrokenKeyboardRepair                    |TCHS07 Gamma 3                     |1       |False
+ColorfulDisks                           |TCHS07 Gamma 3                     |2       |False
+Provinces                               |TCHS07 Gamma 3                     |3       |False
+ItemizedList                            |TCHS07 Gamma 2                     |1       |False
+FractionPoints                          |TCHS07 Gamma 2                     |2       |False
+YahtzeeAdversary                        |TCHS07 Gamma 2                     |3       |False
+CellularPhoneTarif                      |TCHS07 Alpha 2                     |1       |False
+PulseDial                               |TCHS07 Alpha 2                     |2       |False
+FireSimulation                          |TCHS07 Alpha 2                     |3       |False
+LargestCountry                          |TCHS07 Beta 2                      |1       |False
+ChangingSeats                           |TCHS07 Beta 2                      |2       |False
+LatticeCrossword                        |TCHS07 Beta 2                      |3       |False
+FrequentPairs                           |TCHS07 Delta 2                     |1       |False
+PipePatcher                             |TCHS07 Delta 2                     |2       |False
+CalculatorDisplay                       |TCHS07 Delta 2                     |3       |False
+CandyBoxes                              |TCHS07 Beta 3                      |1       |False
+StringOfNumbers                         |TCHS07 Beta 3                      |2       |False
+SafeDrive                               |TCHS07 Beta 3                      |3       |False
+MixingLiquids                           |SRM 355                            |1       |False
+Tetrahedron                             |SRM 355                            |2       |False
+BeautifulHexagonalTilings               |SRM 355                            |3       |False
+DateFormat                              |SRM 354                            |1       |False
+RemissiveSwaps                          |SRM 354                            |2       |False
+RooksPlacement                          |SRM 354                            |3       |False
+Glossary                                |SRM 353                            |1       |False
+PlatformJumper                          |SRM 353                            |2       |False
+FurnitureRobbery                        |SRM 353                            |3       |False
+NumberofFiboCalls                       |SRM 352                            |1       |False
+FibonacciKnapsack                       |SRM 352                            |2       |False
+PaperRacing                             |SRM 352                            |3       |False
+ProductSet                              |Delta Round 1                      |1       |False
+DigitMask                               |Delta Round 1                      |2       |False
+WordConnect                             |Delta Round 1                      |3       |False
+BadExam                                 |TCHS07 Beta 1                      |1       |False
+CountingCrowds                          |TCHS07 Beta 1                      |2       |False
+FamilyTravel                            |TCHS07 Beta 1                      |3       |False
+TriangleConstruction                    |TCHS07 Gamma 1                     |1       |False
+SortingPhotos                           |TCHS07 Gamma 1                     |2       |False
+MultiprocessorProgramming               |TCHS07 Gamma 1                     |3       |False
+SearchDisks                             |TCHS07 Alpha Round 1               |1       |False
+TwoTrains                               |TCHS07 Alpha Round 1               |2       |False
+CrazyCompetition                        |TCHS07 Alpha Round 1               |3       |False
+CoinsExchange                           |SRM 351                            |1       |False
+BoxesArrangement                        |SRM 351                            |2       |False
+NewMagicSquare                          |SRM 351                            |3       |False
+SumsOfPerfectPowers                     |SRM 350                            |1       |False
+StarsInGraphs                           |SRM 350                            |2       |False
+PlaneDivision                           |SRM 350                            |3       |False
+RadarFinder                             |SRM 349                            |1       |False
+DiceGames                               |SRM 349                            |2       |False
+LastMarble                              |SRM 349                            |3       |False
+LostParentheses                         |SRM 348                            |1       |False
+RailwayTickets                          |SRM 348                            |2       |False
+NormalizingTrees                        |SRM 348                            |3       |False
+Aircraft                                |SRM 347                            |1       |False
+FlightScheduler                         |SRM 347                            |2       |False
+MetroNetwork                            |SRM 347                            |3       |False
+CommonMultiples                         |SRM 346                            |1       |False
+HeightRound                             |SRM 346                            |2       |False
+Meteorites                              |SRM 346                            |3       |False
+Pathfinding                             |SRM 345                            |1       |False
+StoneGame                               |SRM 345                            |2       |False
+ByteLand                                |SRM 345                            |3       |False
+VolleyballTournament                    |SRM 344                            |1       |False
+QuantumAlchemy                          |SRM 344                            |2       |False
+FairTournament                          |SRM 344                            |3       |False
+CDPlayer                                |SRM 343                            |1       |False
+MoneyGame                               |SRM 343                            |2       |False
+RefactorableNumber                      |SRM 343                            |3       |False
+TagalogDictionary                       |SRM 342                            |1       |False
+ReverseResources                        |SRM 342                            |2       |False
+DrivingAround                           |SRM 342                            |3       |False
+KLastNonZeroDigits                      |SRM 341                            |1       |False
+LandAndSea                              |SRM 341                            |2       |False
+ValidPlates                             |SRM 341                            |3       |False
+ProblemsToSolve                         |SRM 340                            |1       |False
+CsCourses                               |SRM 340                            |2       |False
+VegetableGarden                         |SRM 340                            |3       |False
+BusTrip                                 |SRM 339                            |1       |False
+TestBettingStrategy                     |SRM 339                            |2       |False
+RPSTournament                           |SRM 339                            |3       |False
+ImprovingStatistics                     |SRM 338                            |1       |False
+RandomSwaps                             |SRM 338                            |2       |False
+CakeParty                               |SRM 338                            |3       |False
+CardStraights                           |SRM 337                            |1       |False
+BuildingAdvertise                       |SRM 337                            |2       |False
+CountPalindromes                        |SRM 337                            |3       |False
+ServiceNames                            |SRM 336                            |1       |False
+LikelyWord                              |SRM 336                            |2       |False
+Shadow                                  |SRM 336                            |3       |False
+Multifactorial                          |SRM 335                            |1       |False
+ExpensiveTravel                         |SRM 335                            |2       |False
+RandomFights                            |SRM 335                            |3       |False
+EncodedSum                              |SRM 334                            |1       |False
+ExtendedHappyNumbers                    |SRM 334                            |2       |False
+Terrorists                              |SRM 334                            |3       |False
+BirthNumbersValidator                   |SRM 333                            |1       |False
+RepeatedPatterns                        |SRM 333                            |2       |False
+ThreeBuses                              |SRM 333                            |3       |False
+BoulderRace                             |TCHS SRM 32                        |1       |False
+SpecialDay                              |TCHS SRM 32                        |2       |False
+SuperPasture                            |TCHS SRM 32                        |3       |False
+TrafficReport                           |TCHS SRM 31                        |1       |False
+HighwayJam                              |TCHS SRM 31                        |2       |False
+LicensePlate                            |TCHS SRM 31                        |3       |False
+HowManyBirthdays                        |TCHS SRM 30                        |1       |False
+GoodAndBadPostmen                       |TCHS SRM 30                        |2       |False
+AcidRain                                |TCHS SRM 30                        |3       |False
+ReverseSums                             |TCHS SRM 29                        |1       |False
+CommutePlan                             |TCHS SRM 29                        |2       |False
+FiveStarPatterns                        |TCHS SRM 29                        |3       |False
+SwappingMarbles                         |TCHS SRM 28                        |1       |False
+ProdCalc                                |TCHS SRM 28                        |2       |False
+ForestGarbage                           |TCHS SRM 28                        |3       |False
+BrickMystery                            |TCHS SRM 27                        |1       |False
+Armies                                  |TCHS SRM 27                        |2       |False
+AdaptiveRouting                         |TCHS SRM 27                        |3       |False
+ThirdBuyDiscount                        |TCHS SRM 26                        |1       |False
+CompressedString                        |TCHS SRM 26                        |2       |False
+CoolNumbers                             |TCHS SRM 26                        |3       |False
+Triominoes                              |TCCC06 Finals                      |1       |False
+TurtleGraphics                          |TCCC06 Finals                      |2       |False
+BuffetLine                              |TCCC06 Finals                      |3       |False
+AlmostBipartiteMatching                 |TCCC06 Wildcard                    |1       |False
+SingleElimination                       |TCCC06 Wildcard                    |2       |False
+Regulars                                |TCCC06 Wildcard                    |3       |False
+CodeSet                                 |TCCC06 Semi 3                      |1       |False
+CCWTurning                              |TCCC06 Semi 3                      |2       |False
+RepeatedAddition                        |TCCC06 Semi 3                      |3       |False
+OlympicsBroadcasting                    |TCCC06 Semi 2                      |1       |False
+DominoesFinding                         |TCCC06 Semi 2                      |2       |False
+FastGossip                              |TCCC06 Semi 2                      |3       |False
+Coherency                               |TCCC06 Semi 1                      |1       |False
+Architects                              |TCCC06 Semi 1                      |2       |False
+Amazing                                 |TCCC06 Semi 1                      |3       |False
+Diamonds                                |TCCC06 Sponsor 3                   |1       |False
+WordGuessingGame                        |TCCC06 Sponsor 3                   |2       |False
+TopologicalEquivalence                  |TCCC06 Sponsor 3                   |3       |False
+ConstitutiveNumbers                     |TCCC06 Sponsor 2                   |1       |False
+MatrixPainting                          |TCCC06 Sponsor 2                   |2       |False
+DominoesFalling                         |TCCC06 Sponsor 2                   |3       |False
+ConstitutiveNumbers                     |TCCC06 Round 2C                    |1       |False
+MatrixPainting                          |TCCC06 Round 2C                    |2       |False
+DominoesFalling                         |TCCC06 Round 2C                    |3       |False
+BComputation                            |TCCC06 Round 2B                    |1       |False
+FracSum                                 |TCCC06 Round 2B                    |2       |False
+SplitSubgraphs                          |TCCC06 Round 2B                    |3       |False
+Diamonds                                |TCCC06 Round 3                     |1       |False
+WordGuessingGame                        |TCCC06 Round 3                     |2       |False
+TopologicalEquivalence                  |TCCC06 Round 3                     |3       |False
+MatchCounts                             |TCCC06 Round 2A                    |1       |False
+Repeat                                  |TCCC06 Round 2A                    |2       |False
+DominoesLines                           |TCCC06 Round 2A                    |3       |False
+FriendlySequences                       |TCCC06 Spon 1                      |1       |False
+QueenCovering                           |TCCC06 Spon 1                      |2       |False
+SnowStorm                               |TCCC06 Spon 1                      |3       |False
+FriendlySequences                       |TCCC06 Round 1C                    |1       |False
+QueenCovering                           |TCCC06 Round 1C                    |2       |False
+SnowStorm                               |TCCC06 Round 1C                    |3       |False
+UsingStats                              |TCCC06 Sponsor Qual                |1       |False
+CheckersBoard                           |TCCC06 Sponsor Qual                |2       |False
+MixedUpPrimes                           |TCCC06 Sponsor Qual                |3       |False
+Spirals                                 |TCCC06 Round 1B                    |1       |False
+FactoryCounting                         |TCCC06 Round 1B                    |2       |False
+Monopolies                              |TCCC06 Round 1B                    |3       |False
+StringSquares                           |TCCC06 Round 1A                    |1       |False
+PickupBed                               |TCCC06 Round 1A                    |2       |False
+VectorCostSequence                      |TCCC06 Round 1A                    |3       |False
+UsingStats                              |TCCC06 Qual 3                      |1       |False
+CheckersBoard                           |TCCC06 Qual 3                      |2       |False
+MixedUpPrimes                           |TCCC06 Qual 3                      |3       |False
+ProseFlip                               |TCCC06 Qual 2                      |1       |False
+CheapestTabComplete                     |TCCC06 Qual 2                      |2       |False
+QuickTableau                            |TCCC06 Qual 2                      |3       |False
+MedianProcess                           |TCCC06 Qual 1                      |1       |False
+StudentsOrdering                        |TCCC06 Qual 1                      |2       |False
+PenPuzzle                               |TCCC06 Qual 1                      |3       |False
+ManyNumbers                             |TCHS SRM 25                        |1       |False
+LuckyFives                              |TCHS SRM 25                        |2       |False
+Staircase                               |TCHS SRM 25                        |3       |False
+AnswerEvaluation                        |TCHS SRM 24                        |1       |False
+AnagramCompletion                       |TCHS SRM 24                        |2       |False
+SwampyLands                             |TCHS SRM 24                        |3       |False
+GoodExhibition                          |TCHS SRM 23                        |1       |False
+Apportionment                           |TCHS SRM 23                        |2       |False
+Collector                               |TCHS SRM 23                        |3       |False
+FibonacciSequence                       |TCHS SRM 22                        |1       |False
+CarParking                              |TCHS SRM 22                        |2       |False
+RiverCrossing                           |TCHS SRM 22                        |3       |False
+PostOffice                              |TCHS SRM 21                        |1       |False
+FixedPoint                              |TCHS SRM 21                        |2       |False
+ElectiveSystem                          |TCHS SRM 21                        |3       |False
+Surname                                 |TCHS SRM 20                        |1       |False
+Postnet                                 |TCHS SRM 20                        |2       |False
+Touchdown                               |TCHS SRM 20                        |3       |False
+DartThrow                               |TCHS SRM 19                        |1       |False
+SalePitch                               |TCHS SRM 19                        |2       |False
+RubeGoldberg                            |TCHS SRM 19                        |3       |False
+ApplePie                                |TCHS SRM 18                        |1       |False
+FrogDerby                               |TCHS SRM 18                        |2       |False
+WarehouseJob                            |TCHS SRM 18                        |3       |False
+BisquareSums                            |TCHS SRM 17                        |1       |False
+ScrabFortune                            |TCHS SRM 17                        |2       |False
+MinePut                                 |TCHS SRM 17                        |3       |False
+MissedCall                              |TCHS SRM 16                        |1       |False
+BrokenElevator                          |TCHS SRM 16                        |2       |False
+Divisibility                            |TCHS SRM 16                        |3       |False
+NumbersLine                             |TCHS SRM 15                        |1       |False
+ShootingGallery                         |TCHS SRM 15                        |2       |False
+SetOfBoxes                              |TCHS SRM 15                        |3       |False
+Xox                                     |TCHS SRM 14                        |1       |False
+FriendsTrouble                          |TCHS SRM 14                        |2       |False
+TournamentSchedule                      |TCHS SRM 14                        |3       |False
+WallRepair                              |TCHS SRM 13                        |1       |False
+DessertMaker                            |TCHS SRM 13                        |2       |False
+CircuitBoard                            |TCHS SRM 13                        |3       |False
+IndictDates                             |TCHS SRM 12                        |1       |False
+DistinctDice                            |TCHS SRM 12                        |2       |False
+Dragon                                  |TCHS SRM 12                        |3       |False
+CityBuses                               |TCHS SRM 11                        |1       |False
+LineOfSight                             |TCHS SRM 11                        |2       |False
+StringBeads                             |TCHS SRM 11                        |3       |False
+Fractile                                |TCHS SRM 10                        |1       |False
+Cannons                                 |TCHS SRM 10                        |2       |False
+SwitchingBits                           |TCHS SRM 10                        |3       |False
+ExcitingGame                            |TCHS SRM 9                         |1       |False
+SimpleCompressor                        |TCHS SRM 9                         |2       |False
+ProductsMatrix                          |TCHS SRM 9                         |3       |False
+FussySleeper                            |TCHS SRM 8                         |1       |False
+WordMath                                |TCHS SRM 8                         |2       |False
+PendingTasks                            |TCHS SRM 8                         |3       |False
+TextProcessor                           |TCHS SRM 7                         |1       |False
+StraightArray                           |TCHS SRM 7                         |2       |False
+EnclosingRectangle                      |TCHS SRM 7                         |3       |False
+DigitalDisplay                          |TCHS SRM 6                         |1       |False
+WildCardMatch                           |TCHS SRM 6                         |2       |False
+BracketMaze                             |TCHS SRM 6                         |3       |False
+TVSize                                  |TCHS SRM 5                         |1       |False
+SuperSort                               |TCHS SRM 5                         |2       |False
+TextEditorNavigation                    |TCHS SRM 5                         |3       |False
+WinningTrick                            |TCHS SRM 4                         |1       |False
+CompositionTimeSignature                |TCHS SRM 4                         |2       |False
+ProductionOptimization                  |TCHS SRM 4                         |3       |False
+BestSeller                              |TCHS SRM 3                         |1       |False
+KidsWordGame                            |TCHS SRM 3                         |2       |False
+BestDecomposition                       |TCHS SRM 3                         |3       |False
+CreatePairs                             |SRM 332                            |1       |False
+RestoringPolygon                        |SRM 332                            |2       |False
+LadderPermutation                       |SRM 332                            |3       |False
+CarolsSinging                           |SRM 331                            |1       |False
+Shopping                                |SRM 331                            |2       |False
+HiddenSquares                           |SRM 331                            |3       |False
+Arrows                                  |SRM 330                            |1       |False
+PrefixFreeSubsets                       |SRM 330                            |2       |False
+LongLongNim                             |SRM 330                            |3       |False
+RailroadSeatNumeration                  |SRM 329                            |1       |False
+LogCutter                               |SRM 329                            |2       |False
+RPSChamps                               |SRM 329                            |3       |False
+LightsCube                              |SRM 328                            |1       |False
+BlockEnemy                              |SRM 328                            |2       |False
+BackyardTrees                           |SRM 328                            |3       |False
+NiceOrUgly                              |SRM 327                            |1       |False
+QuadraticEquations                      |SRM 327                            |2       |False
+PostfixRLE                              |SRM 327                            |3       |False
+PositiveID                              |SRM 326                            |1       |False
+InscribedTriangles                      |SRM 326                            |2       |False
+BerryPacker                             |SRM 326                            |3       |False
+FenceRepairing                          |SRM 325                            |1       |False
+ModularInequality                       |SRM 325                            |2       |False
+NewMoneySystem                          |SRM 325                            |3       |False
+PalindromeDecoding                      |SRM 324                            |1       |False
+TournamentPlan                          |SRM 324                            |2       |False
+PalindromeEncoding                      |SRM 324                            |3       |False
+RoadsAndFools                           |SRM 323                            |1       |False
+Survived                                |SRM 323                            |2       |False
+RestoreExpression                       |SRM 323                            |3       |False
+GroupWork                               |SRM 322                            |1       |False
+ExtendedDominoes                        |SRM 322                            |2       |False
+StrawberryFieldsOnFire                  |SRM 322                            |3       |False
+Chocolate                               |SRM 321                            |1       |False
+WeirdSort                               |SRM 321                            |2       |False
+MergingGraph                            |SRM 321                            |3       |False
+ExtraordinarilyLarge                    |SRM 320                            |1       |False
+ContestSchedule                         |SRM 320                            |2       |False
+SeatingPlan                             |SRM 320                            |3       |False
+BusSeating                              |SRM 319                            |1       |False
+ConstructBST                            |SRM 319                            |2       |False
+Manhattan                               |SRM 319                            |3       |False
+ReturnToHome                            |SRM 318                            |1       |False
+CyclicGame                              |SRM 318                            |2       |False
+BiggestRectangleHard                    |SRM 318                            |3       |False
+InboxCleanup                            |SRM 316                            |1       |False
+PlacingPieces                           |SRM 316                            |2       |False
+RoboRace                                |SRM 316                            |3       |False
+DigitsSum                               |SRM 315                            |1       |False
+SillySudoku                             |SRM 315                            |2       |False
+ThreeMines                              |SRM 315                            |3       |False
+StandInLine                             |SRM 314                            |1       |False
+GrasslandFencer                         |SRM 314                            |2       |False
+MonthlyPayment                          |SRM 314                            |3       |False
+PrefixFreeSets                          |SRM 313                            |1       |False
+CrazyRunning                            |SRM 313                            |2       |False
+BasketballStrategy                      |SRM 313                            |3       |False
+ParallelepipedUnion                     |SRM 312                            |1       |False
+AntarcticaPolice                        |SRM 312                            |2       |False
+CheapestIsland                          |SRM 312                            |3       |False
+MatrixTransforming                      |SRM 311                            |1       |False
+SumThemAll                              |SRM 311                            |2       |False
+MatchNumbersHard                        |SRM 311                            |3       |False
+PyramidOfCubes                          |SRM 310                            |1       |False
+FloatingMedian                          |SRM 310                            |2       |False
+BoxTower                                |SRM 310                            |3       |False
+ScoreRecomposition                      |SRM 309                            |1       |False
+KMonotonic                              |SRM 309                            |2       |False
+StoneGameStrategist                     |SRM 309                            |3       |False
+HuffmanDecoding                         |SRM 308                            |1       |False
+CornersGame                             |SRM 308                            |2       |False
+Wardrobe                                |SRM 308                            |3       |False
+PartSorting                             |SRM 307                            |1       |False
+TrainRobber                             |SRM 307                            |2       |False
+SplitAndMergeGame                       |SRM 307                            |3       |False
