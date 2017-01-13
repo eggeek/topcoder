@@ -1,4 +1,2 @@
-!*.cpp
-!*.py
-!*.java
 .DS_Store
+*.pyc

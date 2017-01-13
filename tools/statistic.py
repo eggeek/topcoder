@@ -7,14 +7,23 @@ def main():
     db = TinyDB("db.json")
     rows = db.all()
     rows.sort(key=lambda x: int(x['rid']), reverse=True)
-    out = []
-    out.append('%-40s|%-35s|%-8s|%-3s\n' % ("problem", "round", "level", "solved"))
-    out.append('-' * (len(out[0]) - 1) + '\n')
+    levels = {1: [], 2: [], 3: []}
     for row in rows:
-        out.append('%-40s|%-35s|%-8s|%-5s\n' % (row['name'], row['round'], row['level'], row['solved']))
+        levels[row['level']].append(row)
+
+    out = []
+    header = '|%-35s|%-40s|%-6s|' % ("round", "problem", "solved")
+    for k, v in levels.items():
+        out.append('# LEVEL %d' % k)
+        out.append('-' * len(header))
+        out.append(header)
+        out.append('-' * len(header))
+        for i in v:
+            out.append('|%-35s|%-40s|%-6s|' % (i['round'], i['name'], i['solved']))
+        out.append('*' * len(header))
     with open("../statistic.txt", 'w') as f:
         for i in out:
-            f.write(i)
+            f.write(i + '\n')
 
 if __name__ == "__main__":
     main()

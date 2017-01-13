@@ -4,7 +4,7 @@ import requests
 import HTMLParser
 import re
 from pyquery import PyQuery as pq
-from tinydb import TinyDB
+from tinydb import TinyDB, Query
 
 h = HTMLParser.HTMLParser()
 ignore = ["README.md", "clear.py", "cpp.tmpl", "greed.conf", "py.tmpl", "tools"]
@@ -60,7 +60,10 @@ def crawl(sr=0, er=3):
             for pk, pv in p.items():
                 print "%-15s:   %s" % (pk, pv)
             prob_cnt += 1
-            db.insert(p)
+            q = Query()
+            if not db.search(q.name == p['name']):
+                print '>>>>>>> insert problem: %s' % p['name']
+                db.insert(p)
             print '-' * 10
         cur += 1
         print '*' * 10, 'finish', k['round'], ',tot rounds:', tot, 'cur round:', cur, 'round problems:', len(problems), '*' * 10

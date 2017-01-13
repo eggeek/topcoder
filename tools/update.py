@@ -13,11 +13,11 @@ def main():
     for f in ls(cur):
         if f in ignore:
             continue
-        print 'find round: %s' % f
         if f.startswith('.'):
             continue
         if not path.isdir(cur + '/' + f):
             continue
+        print 'find round: %s' % f
         for problem_name in ls(cur + '/' + f):
             problems.append(problem_name.split('.')[0])
     for p in problems:
