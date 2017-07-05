@@ -3,7 +3,7 @@ from os import listdir as ls
 from os import remove
 from os.path import isfile, join
 from shutil import rmtree
-protected = ['.git']
+protected = ['.git', 'tools']
 track_types = ['cpp', 'py']
 cur = '.'
 trash = []

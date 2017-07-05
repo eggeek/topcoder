@@ -2,6 +2,12 @@
 -------------------------------------------------------------------------------------
 |round                              |problem                                 |solved|
 -------------------------------------------------------------------------------------
+|TCO17 China                        |EllysBottles                            |True  |
+|SRM 717                            |ScoresSequence                          |False |
+|SRM 716                            |ConstructLCS                            |False |
+|TCO17 Round 2A                     |FoxAndCake2                             |False |
+|TCO17 Russia                       |RangeEncoding                           |False |
+|SRM 715                            |MaximumRange                            |False |
 |SRM 705 Sponsored By Blizzard      |AlphabetOrderDiv1                       |False |
 |SRM 704                            |TreeDistanceConstruction                |True  |
 |SRM 703                            |DAGConstruction                         |False |
@@ -705,6 +711,13 @@
 -------------------------------------------------------------------------------------
 |round                              |problem                                 |solved|
 -------------------------------------------------------------------------------------
+|TCO17 China                        |Ellys8Bit                               |False |
+|SRM 717                            |DerangementsStrikeBack                  |False |
+|SRM 716                            |JumpDistancesOnTree                     |False |
+|TCO17 Round 2A                     |DistanceZeroAndOne                      |False |
+|TCO17 Russia                       |ParenthesisRemoval                      |False |
+|SRM 715                            |ClassicTowers                           |False |
+|SRM 714                            |NAddOdd                                 |False |
 |SRM 705 Sponsored By Blizzard      |MovingTokens                            |False |
 |SRM 704                            |ModEquation                             |False |
 |SRM 703                            |CoastGuard                              |False |
@@ -1404,6 +1417,12 @@
 -------------------------------------------------------------------------------------
 |round                              |problem                                 |solved|
 -------------------------------------------------------------------------------------
+|TCO17 China                        |EllysPrimePals                          |False |
+|SRM 717                            |AcyclicOrientation                      |False |
+|SRM 716                            |GameOfInterval                          |False |
+|TCO17 Round 2A                     |FourLamps                               |False |
+|TCO17 Russia                       |Salesman                                |False |
+|SRM 715                            |PreInPost                               |False |
 |SRM 705 Sponsored By Blizzard      |BrightLampsRemake                       |False |
 |SRM 704                            |HamiltonianConstruction                 |False |
 |SRM 703                            |AutomorphicGraph                        |False |
