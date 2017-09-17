@@ -22,7 +22,8 @@ def main():
             problems.append(problem_name.split('.')[0])
     for p in problems:
         q = Query()
-        if (db.search(q.name == p)):
+        dp = db.search(q.name == p)
+        if (len(dp) > 0 and dp[0]['solved'] is False):
             print 'db update, problem :`%s` solved' % p
             db.update({'solved': True}, (q.name == p))
 
