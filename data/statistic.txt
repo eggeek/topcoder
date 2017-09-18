@@ -608,6 +608,7 @@
 |College Tour SRM 378               |TwoRotationCypher                       |False |198.37    |0.943|        35|
 |TCO09 Round 5                      |PawnsAndKings                           |False |201.23    |0.865|        37|
 |2016 TCO NYC Regional              |EllysCandyBags                          |False |219.31    |0.848|        33|
+|Fun SRM 2017-09-10                 |ArmorUp                                 |False |177.74    |0.717|        46|
 |Delta Round 1                      |ProductSet                              |False |232.02    |0.962|        26|
 |TCHS SRM 16                        |MissedCall                              |False |213.99    |0.403|        67|
 |2016 TCO Algo 3A                   |ParenthesesAndPermutation               |False |169.64    |0.541|        61|
@@ -1251,6 +1252,7 @@
 |SRM 691                            |Moneymanager                            |False |281.58    |0.279|        86|
 |SRM 484                            |PuyoPuyo                                |False |315.57    |0.724|        29|
 |TCO14 Round 3A                     |RandomFlights                           |False |245.40    |0.871|        31|
+|Fun SRM 2017-09-10                 |SixDegreesOfSeparation                  |False |327.90    |0.513|        39|
 |TCHS08 Finals                      |ReversingPrefixes                       |False |363.95    |0.439|        41|
 |TCO12 Round 3B                     |ElevenMultiples                         |False |265.33    |0.706|        34|
 |TCO14 Parallel Round 2C            |CliqueGraph                             |False |387.61    |0.889|        18|
@@ -1897,6 +1899,7 @@
 |SRM 572                            |NextAndPrev                             |False |589.46    |0.333|         6|
 |College Tour SRM 373               |RectangleCrossings                      |False |586.08    |0.333|         6|
 |SRM 665                            |LuckyTree                               |False |577.12    |0.500|         4|
+|Fun SRM 2017-09-10                 |DayAndNight                             |False |571.98    |0.400|         5|
 |2015 TCO Parallel 2C               |PopcountRobot                           |False |571.36    |0.667|         3|
 |2016 TCC India Final               |SumOfXor                                |False |567.12    |1.000|         2|
 |SRM 416                            |RussianCheckers                         |False |556.71    |0.200|        10|

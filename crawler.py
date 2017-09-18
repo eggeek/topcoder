@@ -7,7 +7,7 @@ from pyquery import PyQuery as pq
 from tinydb import TinyDB, Query
 
 h = HTMLParser.HTMLParser()
-ignore = ["README.md", "clear.py", "cpp.tmpl", "greed.conf", "py.tmpl", "tools"]
+ignore = ["README.md", "clear.py", "cpp.tmpl", "greed.conf", "py.tmpl", "tools", "Archive"]
 
 
 def crawl_round(rid, round_name):
@@ -49,7 +49,7 @@ def crawl(sr=0, er=3):
         if sub_url is not None:
             rid = sub_url.split('rd=')[-1]
             archive[round_name] = {'rid': rid, 'round': round_name}
-    db = TinyDB("db.json")
+    db = TinyDB("data/db.json")
     tot = len(archive.values())
     cur = 0
     prob_cnt = 0
