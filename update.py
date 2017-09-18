@@ -73,20 +73,27 @@ def finish(dirname):
         pathname = './Archive/%s' % dirname
         makedirs(pathname)
         print '>>>> create directory:[%s]'
+
+    db = TinyDB("data/db.json")
     for f in fnames:
         oldpath = '%s/%s' % (dirname, f)
         newpath = './Archive/%s/%s' % (dirname, f)
         move(oldpath, newpath)
         print '>>>> move [%s] to [%s]' % (oldpath, newpath)
+        q = Query()
+        pname = path.splitext(f)[0]
+        if db.search(q.name == pname):
+            db.update({'solved': True}, (q.name == pname))
+            print '>>>> db update, problem: `%s` solved' % pname
     rmtree(dirname)
 
 
 def main(*args):
     if len(args) == 0:
         update()
-        update_statistic()
     else:
         finish(args[0])
+    update_statistic()
 
 if __name__ == "__main__":
     main(*sys.argv[1:])

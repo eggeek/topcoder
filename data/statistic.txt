@@ -713,7 +713,7 @@
 |round                              |problem                                 |solved|ave_pts   | rate|submission|
 -----------------------------------------------------------------------------------------------------------------
 |TCO14 Round 1C                     |FizzBuzzTurbo                           |True  |378.89    |0.816|      1448|
-|TCO14 Round 1A                     |EllysScrabble                           |False |338.73    |0.871|      1195|
+|TCO14 Round 1A                     |EllysScrabble                           |True  |338.73    |0.871|      1195|
 |TCO12 Round 1A                     |EllysFractions                          |False |354.89    |0.867|       881|
 |TCO07 Qual 1                       |Bigital                                 |False |331.46    |0.900|       811|
 |TCO13 Round 1C                     |TheOlympiadInInformatics                |False |382.96    |0.537|      1082|
