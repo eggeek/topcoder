@@ -72,7 +72,7 @@ def finish(dirname):
     if not path.exists('./Archive/%s' % dirname):
         pathname = './Archive/%s' % dirname
         makedirs(pathname)
-        print '>>>> create directory:[%s]'
+        print '>>>> create directory:[%s]' % pathname
 
     db = TinyDB("data/db.json")
     for f in fnames:

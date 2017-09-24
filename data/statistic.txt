@@ -3,7 +3,7 @@
 |round                              |problem                                 |solved|ave_pts   | rate|submission|
 -----------------------------------------------------------------------------------------------------------------
 |TCO14 Round 1A                     |EllysSortingTrimmer                     |True  |194.81    |0.950|      2019|
-|TCO14 Round 1B                     |SpamChecker                             |False |189.97    |0.972|      1961|
+|TCO14 Round 1B                     |SpamChecker                             |True  |189.97    |0.972|      1961|
 |TCO14 Round 1C                     |Unique                                  |True  |237.78    |0.975|      1509|
 |TCO13 Round 1B                     |EllysPairs                              |False |223.62    |0.868|      1716|
 |TCO10 Round 1                      |EqualizeStrings                         |False |220.36    |0.966|      1429|
