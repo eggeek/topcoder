@@ -765,7 +765,7 @@
 |SRM 486                            |QuickSort                               |False |306.55    |0.754|       411|
 |2015 TCO 1A                        |Autogame                                |False |321.66    |0.747|       388|
 |TCO09 Qual 2                       |PageNumbers                             |False |290.93    |0.646|       492|
-|TCO14 Round 1B                     |WolvesAndSheep                          |False |305.93    |0.582|       519|
+|TCO14 Round 1B                     |WolvesAndSheep                          |True  |305.93    |0.582|       519|
 |TCO07 Round 2                      |WordSplit                               |False |329.55    |0.505|       545|
 |Member SRM 501                     |FoxAverageSequence                      |False |305.23    |0.804|       367|
 |SRM 425                            |PiecesMover                             |False |292.77    |0.755|       392|
